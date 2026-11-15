@@ -1,0 +1,407 @@
+{
+  "platform": "tencent",
+  "chart": "hot_songs",
+  "fetched_at": "2026-11-15T18:28:06+00:00",
+  "rows": [
+    {
+      "rank": 1,
+      "title": "慌啥子嘛 (赵本山版)",
+      "artists": "赵本山",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/002lzYCa14usQ5"
+    },
+    {
+      "rank": 2,
+      "title": "天龙八部之宿敌",
+      "artists": "许嵩",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001bLkWD2EYA4P"
+    },
+    {
+      "rank": 3,
+      "title": "我不难过",
+      "artists": "孙燕姿",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001fsNdn1zuZnA"
+    },
+    {
+      "rank": 4,
+      "title": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
+      "artists": "BESTie (베스티)",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/0008rnAh3oSbcW"
+    },
+    {
+      "rank": 5,
+      "title": "知心宙",
+      "artists": "曾舜晞",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001SfDp92lr9n5"
+    },
+    {
+      "rank": 6,
+      "title": "我好像在哪见过你",
+      "artists": "薛之谦",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/004VBMk71TdUuR"
+    },
+    {
+      "rank": 7,
+      "title": "雨爱",
+      "artists": "杨丞琳",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/000rh0dE2TyUic"
+    },
+    {
+      "rank": 8,
+      "title": "我怀念的",
+      "artists": "孙燕姿",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/000BO3xy4fd8BJ"
+    },
+    {
+      "rank": 9,
+      "title": "甲乙丙丁 (你我怎么两清)",
+      "artists": "李佳薇",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/002AZauQ1UKQxe"
+    },
+    {
+      "rank": 10,
+      "title": "发如雪",
+      "artists": "周杰伦",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/0027oMO61wWi55"
+    },
+    {
+      "rank": 11,
+      "title": "恋人",
+      "artists": "李荣浩",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001auUcH4WQs2V"
+    },
+    {
+      "rank": 12,
+      "title": "情歌",
+      "artists": "梁静茹",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/0010BrWk2SucQr"
+    },
+    {
+      "rank": 13,
+      "title": "无中生有 Ex Nihilo",
+      "artists": "HOYO-MiX, 當山みれい (当山真玲)",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/0010Eg5d0I2o2b"
+    },
+    {
+      "rank": 14,
+      "title": "Always Online",
+      "artists": "林俊杰",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001N8e5Q4Gjxda"
+    },
+    {
+      "rank": 15,
+      "title": "烂奇迹 (不小心惹了上帝)",
+      "artists": "杨羊烊",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/000Dyol24TMhdn"
+    },
+    {
+      "rank": 16,
+      "title": "演员",
+      "artists": "薛之谦",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001Qu4I30eVFYb"
+    },
+    {
+      "rank": 17,
+      "title": "Hong Kong (feat. 王菲季候风)",
+      "artists": "The Weeknd",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/00255MYE3GNkZF"
+    },
+    {
+      "rank": 18,
+      "title": "特别的人",
+      "artists": "方大同",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/003cSLOO35W3yP"
+    },
+    {
+      "rank": 19,
+      "title": "爱错",
+      "artists": "王力宏",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/004fneUm24gD2c"
+    },
+    {
+      "rank": 20,
+      "title": "幻听",
+      "artists": "许嵩",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/003MUDkf30pS5B"
+    },
+    {
+      "rank": 21,
+      "title": "红色高跟鞋",
+      "artists": "蔡健雅",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/003IGhQO0JdnuC"
+    },
+    {
+      "rank": 22,
+      "title": "开始懂了",
+      "artists": "孙燕姿",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/003PSWcB4EDl6P"
+    },
+    {
+      "rank": 23,
+      "title": "江南",
+      "artists": "林俊杰",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/004TXEXY2G2c7C"
+    },
+    {
+      "rank": 24,
+      "title": "Call your name (Gv)",
+      "artists": "澤野弘之 (さわの ひろゆき), R!N/Gemie",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/002IsYoV4f9a3g"
+    },
+    {
+      "rank": 25,
+      "title": "春娇与志明",
+      "artists": "街道办GDC, 欧阳耀莹",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/004Uln1G2Aunqw"
+    },
+    {
+      "rank": 26,
+      "title": "我们俩",
+      "artists": "郭顶",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/003MASv802hpJ7"
+    },
+    {
+      "rank": 27,
+      "title": "Moonride",
+      "artists": "Hearts2Hearts",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001qW0XY1BqDiE"
+    },
+    {
+      "rank": 28,
+      "title": "愿与愁",
+      "artists": "林俊杰",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/003N7EbT2mUdPG"
+    },
+    {
+      "rank": 29,
+      "title": "素颜",
+      "artists": "许嵩, 何曼婷",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/004Gq0xE1YC8xp"
+    },
+    {
+      "rank": 30,
+      "title": "唯一",
+      "artists": "G.E.M.邓紫棋",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001NgljR0RUhy1"
+    },
+    {
+      "rank": 31,
+      "title": "失眠",
+      "artists": "Suki刘舒妤",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001Y2S0F1OaM2s"
+    },
+    {
+      "rank": 32,
+      "title": "慌啥子嘛",
+      "artists": "村口吴老二",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001NEi021azm4G"
+    },
+    {
+      "rank": 33,
+      "title": "NEON",
+      "artists": "A2O LITE, A2O",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001qilBV4GHXGJ"
+    },
+    {
+      "rank": 34,
+      "title": "美人鱼",
+      "artists": "林俊杰",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/002ASCKm3ROw7t"
+    },
+    {
+      "rank": 35,
+      "title": "季候风",
+      "artists": "王菲",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001SFw584CAgoJ"
+    },
+    {
+      "rank": 36,
+      "title": "泪海",
+      "artists": "许茹芸",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/003Haf8k2E6fYX"
+    },
+    {
+      "rank": 37,
+      "title": "雨过后的风景",
+      "artists": "Dizzy Dizzo (蔡诗芸)",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/004GEXe13HYtsE"
+    },
+    {
+      "rank": 38,
+      "title": "玻璃",
+      "artists": "Gareth.T",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001brxL63DYjSr"
+    },
+    {
+      "rank": 39,
+      "title": "心墙",
+      "artists": "郭静",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001r8VMR24xJHa"
+    },
+    {
+      "rank": 40,
+      "title": "You Are All I Need",
+      "artists": "FLY COAST, 二宮愛 (にのみや あい)",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/002dG09F2B9jlJ"
+    },
+    {
+      "rank": 41,
+      "title": "其实",
+      "artists": "薛之谦",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/003ouHMP12glVD"
+    },
+    {
+      "rank": 42,
+      "title": "新·与天齐",
+      "artists": "指尖笑",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/004KaogL1rk4jT"
+    },
+    {
+      "rank": 43,
+      "title": "晴天",
+      "artists": "周杰伦",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/0039MnYb0qxYhV"
+    },
+    {
+      "rank": 44,
+      "title": "富士山下",
+      "artists": "陈奕迅",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/003aAPj81VWrbL"
+    },
+    {
+      "rank": 45,
+      "title": "认真的雪",
+      "artists": "薛之谦",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001hUNRP0P8g7x"
+    },
+    {
+      "rank": 46,
+      "title": "天外来物",
+      "artists": "薛之谦",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/0013WPvt4fQH2b"
+    },
+    {
+      "rank": 47,
+      "title": "Letting Go",
+      "artists": "蔡健雅",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/004aJoYT3ia7al"
+    },
+    {
+      "rank": 48,
+      "title": "多远都要在一起",
+      "artists": "G.E.M.邓紫棋",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/003S1hgM2asCye"
+    },
+    {
+      "rank": 49,
+      "title": "遇见",
+      "artists": "孙燕姿",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/001xJbdb2MBaaz"
+    },
+    {
+      "rank": 50,
+      "title": "最佳损友",
+      "artists": "陈奕迅",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://y.qq.com/n/ryqq/songDetail/003hFxQh276Cv5"
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "platform": "youtubeMusic",
+  "chart": "global_artists_weekly",
+  "fetched_at": "2026-11-15T18:28:01+00:00",
+  "rows": [
+    {
+      "rank": 1,
+      "title": "Alka Yagnik",
+      "artists": "Alka Yagnik",
+      "metric": 483880713,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 2,
+      "title": "Arijit Singh",
+      "artists": "Arijit Singh",
+      "metric": 351311054,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 3,
+      "title": "Udit Narayan",
+      "artists": "Udit Narayan",
+      "metric": 343003072,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 4,
+      "title": "Shreya Ghoshal",
+      "artists": "Shreya Ghoshal",
+      "metric": 316590660,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 5,
+      "title": "Kumar Sanu",
+      "artists": "Kumar Sanu",
+      "metric": 235204616,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 6,
+      "title": "Bad Bunny",
+      "artists": "Bad Bunny",
+      "metric": 181867071,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 7,
+      "title": "Fuerza Regida",
+      "artists": "Fuerza Regida",
+      "metric": 161846247,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 8,
+      "title": "Sonu Nigam",
+      "artists": "Sonu Nigam",
+      "metric": 157602831,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 9,
+      "title": "Anuel AA",
+      "artists": "Anuel AA",
+      "metric": 152074217,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 10,
+      "title": "Pritam",
+      "artists": "Pritam",
+      "metric": 148269006,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 11,
+      "title": "Shilpi Raj",
+      "artists": "Shilpi Raj",
+      "metric": 146089689,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 12,
+      "title": "Anirudh Ravichander",
+      "artists": "Anirudh Ravichander",
+      "metric": 141537473,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 13,
+      "title": "KAROL G",
+      "artists": "KAROL G",
+      "metric": 141208995,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 14,
+      "title": "The Weeknd",
+      "artists": "The Weeknd",
+      "metric": 132739821,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 15,
+      "title": "Lata Mangeshkar",
+      "artists": "Lata Mangeshkar",
+      "metric": 127494806,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 16,
+      "title": "Shakira",
+      "artists": "Shakira",
+      "metric": 123566885,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 17,
+      "title": "Masoom Sharma",
+      "artists": "Masoom Sharma",
+      "metric": 118179121,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 18,
+      "title": "Pawan Singh",
+      "artists": "Pawan Singh",
+      "metric": 117786405,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 19,
+      "title": "Khesari Lal Yadav",
+      "artists": "Khesari Lal Yadav",
+      "metric": 112758213,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 20,
+      "title": "Justin Bieber",
+      "artists": "Justin Bieber",
+      "metric": 109025435,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 21,
+      "title": "KATSEYE",
+      "artists": "KATSEYE",
+      "metric": 107150481,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 22,
+      "title": "BTS",
+      "artists": "BTS",
+      "metric": 105890420,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 23,
+      "title": "Sai Abhyankkar",
+      "artists": "Sai Abhyankkar",
+      "metric": 105652581,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 24,
+      "title": "A. R. Rahman",
+      "artists": "A. R. Rahman",
+      "metric": 102099252,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 25,
+      "title": "Daddy Yankee",
+      "artists": "Daddy Yankee",
+      "metric": 101252865,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 26,
+      "title": "Bruno Mars",
+      "artists": "Bruno Mars",
+      "metric": 101008716,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 27,
+      "title": "Ariana Grande",
+      "artists": "Ariana Grande",
+      "metric": 97759721,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 28,
+      "title": "Michael Jackson",
+      "artists": "Michael Jackson",
+      "metric": 97684798,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 29,
+      "title": "Shashwat Sachdev",
+      "artists": "Shashwat Sachdev",
+      "metric": 97150521,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 30,
+      "title": "Himesh Reshammiya",
+      "artists": "Himesh Reshammiya",
+      "metric": 94539509,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 31,
+      "title": "BLOK3",
+      "artists": "BLOK3",
+      "metric": 93868450,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 32,
+      "title": "Taylor Swift",
+      "artists": "Taylor Swift",
+      "metric": 93716255,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 33,
+      "title": "Yo Yo Honey Singh",
+      "artists": "Yo Yo Honey Singh",
+      "metric": 93124631,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 34,
+      "title": "Anuradha Paudwal",
+      "artists": "Anuradha Paudwal",
+      "metric": 92622455,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 35,
+      "title": "S. P. Balasubrahmanyam",
+      "artists": "S. P. Balasubrahmanyam",
+      "metric": 92569729,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 36,
+      "title": "Ozuna",
+      "artists": "Ozuna",
+      "metric": 91295353,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 37,
+      "title": "Sunidhi Chauhan",
+      "artists": "Sunidhi Chauhan",
+      "metric": 89289704,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 38,
+      "title": "Romeo Santos",
+      "artists": "Romeo Santos",
+      "metric": 88956079,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 39,
+      "title": "Eminem",
+      "artists": "Eminem",
+      "metric": 86899129,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 40,
+      "title": "Peso Pluma",
+      "artists": "Peso Pluma",
+      "metric": 86834381,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 41,
+      "title": "Linkin Park",
+      "artists": "Linkin Park",
+      "metric": 82689088,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 42,
+      "title": "Sameer",
+      "artists": "Sameer",
+      "metric": 81951011,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 43,
+      "title": "Rihanna",
+      "artists": "Rihanna",
+      "metric": 81723373,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 44,
+      "title": "Sachin-Jigar",
+      "artists": "Sachin-Jigar",
+      "metric": 80756889,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 45,
+      "title": "Satinder Sartaaj",
+      "artists": "Satinder Sartaaj",
+      "metric": 80627467,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 46,
+      "title": "Drake",
+      "artists": "Drake",
+      "metric": 79875068,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 47,
+      "title": "Karan Aujla",
+      "artists": "Karan Aujla",
+      "metric": 79133289,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 48,
+      "title": "Lady Gaga",
+      "artists": "Lady Gaga",
+      "metric": 77737341,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 49,
+      "title": "Atif Aslam",
+      "artists": "Atif Aslam",
+      "metric": 77617648,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 50,
+      "title": "ILLIT",
+      "artists": "ILLIT",
+      "metric": 76438774,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 51,
+      "title": "Don Omar",
+      "artists": "Don Omar",
+      "metric": 76222636,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 52,
+      "title": "Vishal-Shekhar",
+      "artists": "Vishal-Shekhar",
+      "metric": 76203539,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 53,
+      "title": "Grupo Firme",
+      "artists": "Grupo Firme",
+      "metric": 74418042,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 54,
+      "title": "J Balvin",
+      "artists": "J Balvin",
+      "metric": 73160173,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 55,
+      "title": "Kavita Krishnamurthy",
+      "artists": "Kavita Krishnamurthy",
+      "metric": 72539153,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 56,
+      "title": "Gur Sidhu",
+      "artists": "Gur Sidhu",
+      "metric": 71471962,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 57,
+      "title": "Jasmine Sandlas",
+      "artists": "Jasmine Sandlas",
+      "metric": 71102535,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 58,
+      "title": "Tito Double P",
+      "artists": "Tito Double P",
+      "metric": 70150888,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 59,
+      "title": "Neha Kakkar",
+      "artists": "Neha Kakkar",
+      "metric": 69943088,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 60,
+      "title": "Diljit Dosanjh",
+      "artists": "Diljit Dosanjh",
+      "metric": 69909687,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 61,
+      "title": "Rauw Alejandro",
+      "artists": "Rauw Alejandro",
+      "metric": 69846624,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 62,
+      "title": "Myke Towers",
+      "artists": "Myke Towers",
+      "metric": 69137612,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 63,
+      "title": "Aventura",
+      "artists": "Aventura",
+      "metric": 68499306,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 64,
+      "title": "Grupo Frontera",
+      "artists": "Grupo Frontera",
+      "metric": 68225407,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 65,
+      "title": "Farruko",
+      "artists": "Farruko",
+      "metric": 67484458,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 66,
+      "title": "Irshad Kamil",
+      "artists": "Irshad Kamil",
+      "metric": 67086810,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 67,
+      "title": "K.K.",
+      "artists": "K.K.",
+      "metric": 66787775,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 68,
+      "title": "Maluma",
+      "artists": "Maluma",
+      "metric": 66618028,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 69,
+      "title": "Kishore Kumar",
+      "artists": "Kishore Kumar",
+      "metric": 66551707,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 70,
+      "title": "Jubin Nautiyal",
+      "artists": "Jubin Nautiyal",
+      "metric": 66402908,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 71,
+      "title": "Junior H",
+      "artists": "Junior H",
+      "metric": 65993370,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 72,
+      "title": "Sidhu Moose Wala",
+      "artists": "Sidhu Moose Wala",
+      "metric": 65603827,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 73,
+      "title": "Sadhana Sargam",
+      "artists": "Sadhana Sargam",
+      "metric": 64481838,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 74,
+      "title": "Raushan Rohi",
+      "artists": "Raushan Rohi",
+      "metric": 63804628,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 75,
+      "title": "Mithoon",
+      "artists": "Mithoon",
+      "metric": 63654035,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 76,
+      "title": "G. V. Prakash Kumar",
+      "artists": "G. V. Prakash Kumar",
+      "metric": 63258851,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 77,
+      "title": "Badshah",
+      "artists": "Badshah",
+      "metric": 63076040,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 78,
+      "title": "Blessd",
+      "artists": "Blessd",
+      "metric": 62253029,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 79,
+      "title": "K.S. Chithra",
+      "artists": "K.S. Chithra",
+      "metric": 60979110,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 80,
+      "title": "Olivia Rodrigo",
+      "artists": "Olivia Rodrigo",
+      "metric": 60778598,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 81,
+      "title": "Neton Vega",
+      "artists": "Neton Vega",
+      "metric": 60366112,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 82,
+      "title": "Madhubanti Bagchi",
+      "artists": "Madhubanti Bagchi",
+      "metric": 59451097,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 83,
+      "title": "Shiva Choudhary",
+      "artists": "Shiva Choudhary",
+      "metric": 58704409,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 84,
+      "title": "Katy Perry",
+      "artists": "Katy Perry",
+      "metric": 58667976,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 85,
+      "title": "Henrique & Juliano",
+      "artists": "Henrique & Juliano",
+      "metric": 58338481,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 86,
+      "title": "Abhijeet Bhattacharya",
+      "artists": "Abhijeet Bhattacharya",
+      "metric": 58170212,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 87,
+      "title": "Asha Bhosle",
+      "artists": "Asha Bhosle",
+      "metric": 57851933,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 88,
+      "title": "Ed Sheeran",
+      "artists": "Ed Sheeran",
+      "metric": 57027292,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 89,
+      "title": "Ilaiyaraaja",
+      "artists": "Ilaiyaraaja",
+      "metric": 56750430,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 90,
+      "title": "Billie Eilish",
+      "artists": "Billie Eilish",
+      "metric": 56595784,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 91,
+      "title": "Cheema Y",
+      "artists": "Cheema Y",
+      "metric": 55699020,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 92,
+      "title": "Feid",
+      "artists": "Feid",
+      "metric": 55119101,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 93,
+      "title": "Chris Brown",
+      "artists": "Chris Brown",
+      "metric": 54932287,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 94,
+      "title": "Shankar Mahadevan",
+      "artists": "Shankar Mahadevan",
+      "metric": 54407147,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 95,
+      "title": "Vicente Fernández",
+      "artists": "Vicente Fernández",
+      "metric": 53738605,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 96,
+      "title": "Stray Kids",
+      "artists": "Stray Kids",
+      "metric": 53567650,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 97,
+      "title": "Omar Courtz",
+      "artists": "Omar Courtz",
+      "metric": 53482109,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 98,
+      "title": "Lana Del Rey",
+      "artists": "Lana Del Rey",
+      "metric": 52778891,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 99,
+      "title": "MC Ryan SP",
+      "artists": "MC Ryan SP",
+      "metric": 52583694,
+      "metric_name": "views",
+      "url": null
+    },
+    {
+      "rank": 100,
+      "title": "Arcangel",
+      "artists": "Arcangel",
+      "metric": 52252481,
+      "metric_name": "views",
+      "url": null
+    }
+  ]
+}

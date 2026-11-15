@@ -1,0 +1,1607 @@
+{
+  "platform": "spotify",
+  "chart": "global_weekly",
+  "fetched_at": "2026-11-15T18:30:42+00:00",
+  "rows": [
+    {
+      "rank": 1,
+      "title": "BbY WOW (w/ Judeline , rusowsky )",
+      "artists": "KAROL G",
+      "metric": 33199682,
+      "metric_name": "streams",
+      "url": "../track/3h5T5JypYU7huFiVYhv1dr.html"
+    },
+    {
+      "rank": 2,
+      "title": "Housewife",
+      "artists": "Tate McRae",
+      "metric": 30766039,
+      "metric_name": "streams",
+      "url": "../track/2sFepQNyl1WjpROruP8bJ0.html"
+    },
+    {
+      "rank": 3,
+      "title": "Stop The Wedding!",
+      "artists": "Ashe",
+      "metric": 29137725,
+      "metric_name": "streams",
+      "url": "../track/7MOO89Qv9AV7VZkt5mcqA8.html"
+    },
+    {
+      "rank": 4,
+      "title": "Nicole Kidman",
+      "artists": "ADÉLA",
+      "metric": 25591456,
+      "metric_name": "streams",
+      "url": "../track/70cHKK8bHAfJrOGVnfRG9J.html"
+    },
+    {
+      "rank": 5,
+      "title": "the cure",
+      "artists": "Olivia Rodrigo",
+      "metric": 23096280,
+      "metric_name": "streams",
+      "url": "../track/55pBIZO1cqoldeqpp5WR7H.html"
+    },
+    {
+      "rank": 6,
+      "title": "Ain't In LA",
+      "artists": "ADÉLA",
+      "metric": 22317242,
+      "metric_name": "streams",
+      "url": "../track/6U9VpmP3dEinuezxCJ2Zg9.html"
+    },
+    {
+      "rank": 7,
+      "title": "back to friends",
+      "artists": "sombr",
+      "metric": 18522483,
+      "metric_name": "streams",
+      "url": "../track/7qjZnBKE73H4Oxkopwulqe.html"
+    },
+    {
+      "rank": 8,
+      "title": "Babydoll",
+      "artists": "Jamie Miller",
+      "metric": 18473059,
+      "metric_name": "streams",
+      "url": "../track/1o9mAOmNm3wT2NdyGV1Ard.html"
+    },
+    {
+      "rank": 9,
+      "title": "Iris",
+      "artists": "The Goo Goo Dolls",
+      "metric": 18052153,
+      "metric_name": "streams",
+      "url": "../track/6Qyc6fS4DsZjB2mRW9DsQs.html"
+    },
+    {
+      "rank": 10,
+      "title": "Earrings",
+      "artists": "Malcolm Todd",
+      "metric": 17705569,
+      "metric_name": "streams",
+      "url": "../track/0eAuGrXyGFYwur9ARUe7LJ.html"
+    },
+    {
+      "rank": 11,
+      "title": "Beauty And A Beat (w/ Nicki Minaj )",
+      "artists": "Justin Bieber",
+      "metric": 17550050,
+      "metric_name": "streams",
+      "url": "../track/6QFCMUUq1T2Vf5sFUXcuQ7.html"
+    },
+    {
+      "rank": 12,
+      "title": "The One That Got Away",
+      "artists": "Katy Perry",
+      "metric": 17482910,
+      "metric_name": "streams",
+      "url": "../track/2009X8GyWTqyxIdzAEYW6N.html"
+    },
+    {
+      "rank": 13,
+      "title": "stupid song",
+      "artists": "Olivia Rodrigo",
+      "metric": 17129980,
+      "metric_name": "streams",
+      "url": "../track/49j6SvuvWfbEKZKzsHCdLJ.html"
+    },
+    {
+      "rank": 14,
+      "title": "Die With A Smile (w/ Bruno Mars )",
+      "artists": "Lady Gaga",
+      "metric": 17105732,
+      "metric_name": "streams",
+      "url": "../track/7so0lgd0zP2Sbgs2d7a1SZ.html"
+    },
+    {
+      "rank": 15,
+      "title": "Sweater Weather",
+      "artists": "The Neighbourhood",
+      "metric": 16873140,
+      "metric_name": "streams",
+      "url": "../track/2QjOHCTQ1Jl3zawyYOpxh6.html"
+    },
+    {
+      "rank": 16,
+      "title": "Just Give Me a Reason (w/ Nate Ruess )",
+      "artists": "P!nk",
+      "metric": 16471529,
+      "metric_name": "streams",
+      "url": "../track/1mKXFLRA179hdOWQBwUk9e.html"
+    },
+    {
+      "rank": 17,
+      "title": "Man I Need",
+      "artists": "Olivia Dean",
+      "metric": 15945688,
+      "metric_name": "streams",
+      "url": "../track/1qbmS6ep2hbBRaEZFpn7BX.html"
+    },
+    {
+      "rank": 18,
+      "title": "Pós - Ao Vivo",
+      "artists": "Felipe e Rodrigo",
+      "metric": 15884211,
+      "metric_name": "streams",
+      "url": "../track/1uDn0nbzeGPVw97jp7SvzR.html"
+    },
+    {
+      "rank": 19,
+      "title": "Last Christmas",
+      "artists": "Wham!",
+      "metric": 15793009,
+      "metric_name": "streams",
+      "url": "../track/2FRnf9qhLbvw8fu4IBXx78.html"
+    },
+    {
+      "rank": 20,
+      "title": "Great Expectation",
+      "artists": "SIENNA SPIRO",
+      "metric": 15568621,
+      "metric_name": "streams",
+      "url": "../track/7ujApz6iFP3PmKIDGcaGbe.html"
+    },
+    {
+      "rank": 21,
+      "title": "SWIM",
+      "artists": "BTS",
+      "metric": 15413725,
+      "metric_name": "streams",
+      "url": "../track/68lbSrXDORS51pmyjZv712.html"
+    },
+    {
+      "rank": 22,
+      "title": "Choosin' Texas",
+      "artists": "Ella Langley",
+      "metric": 15340287,
+      "metric_name": "streams",
+      "url": "../track/7scFxt9VhL4FJwuPSfRlfN.html"
+    },
+    {
+      "rank": 23,
+      "title": "Suzuki (from GTAVI: The Album) (w/ Grand Theft Auto VI )",
+      "artists": "Fuerza Regida",
+      "metric": 15200357,
+      "metric_name": "streams",
+      "url": "../track/6VDw2mGBIa4csypjOhS6JT.html"
+    },
+    {
+      "rank": 24,
+      "title": "Love Me Not",
+      "artists": "Ravyn Lenae",
+      "metric": 15170486,
+      "metric_name": "streams",
+      "url": "../track/4WFgvKVfEhb3IUAFGrutTR.html"
+    },
+    {
+      "rank": 25,
+      "title": "Mr. Brightside",
+      "artists": "The Killers",
+      "metric": 14824093,
+      "metric_name": "streams",
+      "url": "../track/003vvx7Niy0yvhvHt4a68B.html"
+    },
+    {
+      "rank": 26,
+      "title": "Coming Up Roses",
+      "artists": "Harry Styles",
+      "metric": 14745738,
+      "metric_name": "streams",
+      "url": "../track/0QPdjsMOUhwouq1NS3HwfQ.html"
+    },
+    {
+      "rank": 27,
+      "title": "Self Aware",
+      "artists": "Temper City",
+      "metric": 14667142,
+      "metric_name": "streams",
+      "url": "../track/4qW3BbQAwZsrnu8a3ZRdyT.html"
+    },
+    {
+      "rank": 28,
+      "title": "Every Breath You Take",
+      "artists": "The Police",
+      "metric": 14591373,
+      "metric_name": "streams",
+      "url": "../track/1JSTJqkT5qHq8MDJnJbRE1.html"
+    },
+    {
+      "rank": 29,
+      "title": "Loser",
+      "artists": "Tame Impala",
+      "metric": 14570112,
+      "metric_name": "streams",
+      "url": "../track/7bxaFZ1O3cHkgLKMsdC3xR.html"
+    },
+    {
+      "rank": 30,
+      "title": "Sailor Song",
+      "artists": "Gigi Perez",
+      "metric": 14205713,
+      "metric_name": "streams",
+      "url": "../track/21IYMdzTrzSe191Cy5eMap.html"
+    },
+    {
+      "rank": 31,
+      "title": "All I Want for Christmas Is You",
+      "artists": "Mariah Carey",
+      "metric": 14138298,
+      "metric_name": "streams",
+      "url": "../track/0bYg9bo50gSsH3LtXe2SQn.html"
+    },
+    {
+      "rank": 32,
+      "title": "End of Beginning",
+      "artists": "Djo",
+      "metric": 14136852,
+      "metric_name": "streams",
+      "url": "../track/3qhlB30KknSejmIvZZLjOD.html"
+    },
+    {
+      "rank": 33,
+      "title": "Treat You Better",
+      "artists": "Shawn Mendes",
+      "metric": 14085553,
+      "metric_name": "streams",
+      "url": "../track/3QGsuHI8jO1Rx4JWLUh9jd.html"
+    },
+    {
+      "rank": 34,
+      "title": "BIRDS OF A FEATHER",
+      "artists": "Billie Eilish",
+      "metric": 13903563,
+      "metric_name": "streams",
+      "url": "../track/6dOtVTDdiauQNBQEDOtlAB.html"
+    },
+    {
+      "rank": 35,
+      "title": "Billie Jean",
+      "artists": "Michael Jackson",
+      "metric": 13851043,
+      "metric_name": "streams",
+      "url": "../track/7J1uxwnxfQLu4APicE5Rnj.html"
+    },
+    {
+      "rank": 36,
+      "title": "Babydoll",
+      "artists": "Dominic Fike",
+      "metric": 13826160,
+      "metric_name": "streams",
+      "url": "../track/7yNf9YjeO5JXUE3JEBgnYc.html"
+    },
+    {
+      "rank": 37,
+      "title": "Creep",
+      "artists": "Radiohead",
+      "metric": 13662034,
+      "metric_name": "streams",
+      "url": "../track/70LcF31zb1H0PyJoS1Sx1r.html"
+    },
+    {
+      "rank": 38,
+      "title": "One Of The Girls (w/ JENNIE , Lily-Rose Depp )",
+      "artists": "The Weeknd",
+      "metric": 13343367,
+      "metric_name": "streams",
+      "url": "../track/7CyPwkp0oE8Ro9Dd5CUDjW.html"
+    },
+    {
+      "rank": 39,
+      "title": "Sign of the Times",
+      "artists": "Harry Styles",
+      "metric": 13097447,
+      "metric_name": "streams",
+      "url": "../track/5Ohxk2dO5COHF1krpoPigN.html"
+    },
+    {
+      "rank": 40,
+      "title": "I Wanna Be Yours",
+      "artists": "Arctic Monkeys",
+      "metric": 12939049,
+      "metric_name": "streams",
+      "url": "../track/5XeFesFbtLpXzIVDNQP22n.html"
+    },
+    {
+      "rank": 41,
+      "title": "Starboy (w/ Daft Punk )",
+      "artists": "The Weeknd",
+      "metric": 12862737,
+      "metric_name": "streams",
+      "url": "../track/7MXVkk9YMctZqd1Srtv4MB.html"
+    },
+    {
+      "rank": 42,
+      "title": "Yellow",
+      "artists": "Coldplay",
+      "metric": 12783728,
+      "metric_name": "streams",
+      "url": "../track/3AJwUDP919kvQ9QcozQPxg.html"
+    },
+    {
+      "rank": 43,
+      "title": "Alfaaz (w/ Zain Zohaib )",
+      "artists": "Hamza Malik",
+      "metric": 12729395,
+      "metric_name": "streams",
+      "url": "../track/0tW2gwaRzFQQrgr2UCO56G.html"
+    },
+    {
+      "rank": 44,
+      "title": "Cinderella (w/ Ty Dolla $ign )",
+      "artists": "Mac Miller",
+      "metric": 12554258,
+      "metric_name": "streams",
+      "url": "../track/2lpygKqzPFtItQ4ss3cgfb.html"
+    },
+    {
+      "rank": 45,
+      "title": "Ordinary",
+      "artists": "Alex Warren",
+      "metric": 12528226,
+      "metric_name": "streams",
+      "url": "../track/2RkZ5LkEzeHGRsmDqKwmaJ.html"
+    },
+    {
+      "rank": 46,
+      "title": "hate that i made you love me",
+      "artists": "Ariana Grande",
+      "metric": 12488556,
+      "metric_name": "streams",
+      "url": "../track/3iy2QuCtCzpWnR6tia39AB.html"
+    },
+    {
+      "rank": 47,
+      "title": "Dai Dai (w/ Burna Boy )",
+      "artists": "Shakira",
+      "metric": 12484987,
+      "metric_name": "streams",
+      "url": "../track/0kosUz0jePvjiz4ctmR6wL.html"
+    },
+    {
+      "rank": 48,
+      "title": "Cuando No Era Cantante RMX - Remix (w/ Anuel AA , Fuerza Regida , Yung Beef )",
+      "artists": "El Bogueto",
+      "metric": 12073392,
+      "metric_name": "streams",
+      "url": "../track/56V7nzrqr6Sq1uFym4odwa.html"
+    },
+    {
+      "rank": 49,
+      "title": "WILDFLOWER",
+      "artists": "Billie Eilish",
+      "metric": 11902949,
+      "metric_name": "streams",
+      "url": "../track/3QaPy1KgI7nu9FJEQUgn6h.html"
+    },
+    {
+      "rank": 50,
+      "title": "Bring Me To Life",
+      "artists": "Evanescence",
+      "metric": 11885290,
+      "metric_name": "streams",
+      "url": "../track/0COqiPhxzoWICwFCS4eZcp.html"
+    },
+    {
+      "rank": 51,
+      "title": "Sure Thing",
+      "artists": "Miguel",
+      "metric": 11876143,
+      "metric_name": "streams",
+      "url": "../track/0JXXNGljqupsJaZsgSbMZV.html"
+    },
+    {
+      "rank": 52,
+      "title": "Locked out of Heaven",
+      "artists": "Bruno Mars",
+      "metric": 11797424,
+      "metric_name": "streams",
+      "url": "../track/5g7sDjBhZ4I3gcFIpkrLuI.html"
+    },
+    {
+      "rank": 53,
+      "title": "In the End",
+      "artists": "Linkin Park",
+      "metric": 11742480,
+      "metric_name": "streams",
+      "url": "../track/60a0Rd6pjrkxjPbaKzXjfq.html"
+    },
+    {
+      "rank": 54,
+      "title": "The Night We Met",
+      "artists": "Lord Huron",
+      "metric": 11598352,
+      "metric_name": "streams",
+      "url": "../track/3hRV0jL3vUpRrcy398teAU.html"
+    },
+    {
+      "rank": 55,
+      "title": "505",
+      "artists": "Arctic Monkeys",
+      "metric": 11533163,
+      "metric_name": "streams",
+      "url": "../track/58ge6dfP91o9oXMzq3XkIS.html"
+    },
+    {
+      "rank": 56,
+      "title": "Wonderwall - Remastered",
+      "artists": "Oasis",
+      "metric": 11417850,
+      "metric_name": "streams",
+      "url": "../track/5qqabIl2vWzo9ApSC317sa.html"
+    },
+    {
+      "rank": 57,
+      "title": "drop dead",
+      "artists": "Olivia Rodrigo",
+      "metric": 11292043,
+      "metric_name": "streams",
+      "url": "../track/3fRCAPMMZ8l8P9YKI6OCzD.html"
+    },
+    {
+      "rank": 58,
+      "title": "Postinho de Gasolina (w/ Grelo )",
+      "artists": "João Gustavo e Murilo",
+      "metric": 11270365,
+      "metric_name": "streams",
+      "url": "../track/4RuRAwMmuBxw4QsKeFVhxh.html"
+    },
+    {
+      "rank": 59,
+      "title": "Shape of You",
+      "artists": "Ed Sheeran",
+      "metric": 11169677,
+      "metric_name": "streams",
+      "url": "../track/7qiZfU4dY1lWllzX7mPBI3.html"
+    },
+    {
+      "rank": 60,
+      "title": "Die On This Hill",
+      "artists": "SIENNA SPIRO",
+      "metric": 11066387,
+      "metric_name": "streams",
+      "url": "../track/2gYTC8DsplN3RNdpdBcCOQ.html"
+    },
+    {
+      "rank": 61,
+      "title": "One Dance (w/ Wizkid , Kyla )",
+      "artists": "Drake",
+      "metric": 11065242,
+      "metric_name": "streams",
+      "url": "../track/1zi7xx7UVEFkmKfv06H8x0.html"
+    },
+    {
+      "rank": 62,
+      "title": "Dracula - JENNIE Remix (w/ JENNIE )",
+      "artists": "Tame Impala",
+      "metric": 11052874,
+      "metric_name": "streams",
+      "url": "../track/5yvVYFDUpbnjcnRBgjwTzM.html"
+    },
+    {
+      "rank": 63,
+      "title": "deja vu",
+      "artists": "Olivia Rodrigo",
+      "metric": 10958176,
+      "metric_name": "streams",
+      "url": "../track/6HU7h9RYOaPRFeh0R3UeAr.html"
+    },
+    {
+      "rank": 64,
+      "title": "Rein Me In (w/ Olivia Dean )",
+      "artists": "Sam Fender",
+      "metric": 10922740,
+      "metric_name": "streams",
+      "url": "../track/0MUXBhPUDF8or0kfQ0EHwV.html"
+    },
+    {
+      "rank": 65,
+      "title": "The Fate of Ophelia",
+      "artists": "Taylor Swift",
+      "metric": 10917827,
+      "metric_name": "streams",
+      "url": "../track/53iuhJlwXhSER5J2IYYv1W.html"
+    },
+    {
+      "rank": 66,
+      "title": "Training Season",
+      "artists": "Dua Lipa",
+      "metric": 10909681,
+      "metric_name": "streams",
+      "url": "../track/5b5cPscqVEMChvDqscVw26.html"
+    },
+    {
+      "rank": 67,
+      "title": "Riptide",
+      "artists": "Vance Joy",
+      "metric": 10902937,
+      "metric_name": "streams",
+      "url": "../track/7yq4Qj7cqayVTp3FF9CWbm.html"
+    },
+    {
+      "rank": 68,
+      "title": "Apocalypse",
+      "artists": "Cigarettes After Sex",
+      "metric": 10877373,
+      "metric_name": "streams",
+      "url": "../track/1oAwsWBovWRIp7qLMGPIet.html"
+    },
+    {
+      "rank": 69,
+      "title": "So Easy (To Fall In Love)",
+      "artists": "Olivia Dean",
+      "metric": 10795780,
+      "metric_name": "streams",
+      "url": "../track/6sGIMrtIzQjdzNndVxe397.html"
+    },
+    {
+      "rank": 70,
+      "title": "Raindance (w/ Tems )",
+      "artists": "Dave",
+      "metric": 10702616,
+      "metric_name": "streams",
+      "url": "../track/3oTuTpF1F3A7rEC6RKsMRz.html"
+    },
+    {
+      "rank": 71,
+      "title": "Beat It",
+      "artists": "Michael Jackson",
+      "metric": 10593838,
+      "metric_name": "streams",
+      "url": "../track/3BovdzfaX4jb5KFQwoPfAw.html"
+    },
+    {
+      "rank": 72,
+      "title": "DtMF",
+      "artists": "Bad Bunny",
+      "metric": 10580931,
+      "metric_name": "streams",
+      "url": "../track/3sK8wGT43QFpWrvNQsrQya.html"
+    },
+    {
+      "rank": 73,
+      "title": "expectations (w/ Chappell Roan )",
+      "artists": "Olivia Rodrigo",
+      "metric": 10549589,
+      "metric_name": "streams",
+      "url": "../track/3XmwAZpIMNpTJy8faw3ajD.html"
+    },
+    {
+      "rank": 74,
+      "title": "Risk It All",
+      "artists": "Bruno Mars",
+      "metric": 10451295,
+      "metric_name": "streams",
+      "url": "../track/5y2ijHECwFYWqcAHKTZgzD.html"
+    },
+    {
+      "rank": 75,
+      "title": "Reflections",
+      "artists": "The Neighbourhood",
+      "metric": 10437584,
+      "metric_name": "streams",
+      "url": "../track/2xql0pid3EUwW38AsywxhV.html"
+    },
+    {
+      "rank": 76,
+      "title": "Counting Stars",
+      "artists": "OneRepublic",
+      "metric": 10279829,
+      "metric_name": "streams",
+      "url": "../track/2tpWsVSb9UEmDRxAl1zhX1.html"
+    },
+    {
+      "rank": 77,
+      "title": "Olimpo (w/ Fuerza Regida )",
+      "artists": "Neton Vega",
+      "metric": 10240067,
+      "metric_name": "streams",
+      "url": "../track/0vGKL7wzfkhzGEJScbYt7N.html"
+    },
+    {
+      "rank": 78,
+      "title": "Viva La Vida",
+      "artists": "Coldplay",
+      "metric": 10232056,
+      "metric_name": "streams",
+      "url": "../track/1mea3bSkSGXuIRvnydlB5b.html"
+    },
+    {
+      "rank": 79,
+      "title": "ako ang bagyo",
+      "artists": "SHEAN",
+      "metric": 10142449,
+      "metric_name": "streams",
+      "url": "../track/1EqRuhrJZU5R7aeWyw1z8D.html"
+    },
+    {
+      "rank": 80,
+      "title": "No Scrubs",
+      "artists": "TLC",
+      "metric": 10094388,
+      "metric_name": "streams",
+      "url": "../track/1KGi9sZVMeszgZOWivFpxs.html"
+    },
+    {
+      "rank": 81,
+      "title": "체포하겠어",
+      "artists": "ILLIT",
+      "metric": 10086823,
+      "metric_name": "streams",
+      "url": "../track/30T1Q5lsYzCEKzifUWwFWM.html"
+    },
+    {
+      "rank": 82,
+      "title": "Die For You",
+      "artists": "The Weeknd",
+      "metric": 10049686,
+      "metric_name": "streams",
+      "url": "../track/2LBqCSwhJGcFQeTHMVGwy3.html"
+    },
+    {
+      "rank": 83,
+      "title": "Blinding Lights",
+      "artists": "The Weeknd",
+      "metric": 10002693,
+      "metric_name": "streams",
+      "url": "../track/0VjIjW4GlUZAMYd2vXMi3b.html"
+    },
+    {
+      "rank": 84,
+      "title": "Animal",
+      "artists": "KATSEYE",
+      "metric": 9987266,
+      "metric_name": "streams",
+      "url": "../track/3ouNEk0tv5TTi8VWMe1xbX.html"
+    },
+    {
+      "rank": 85,
+      "title": "WHERE IS MY HUSBAND!",
+      "artists": "RAYE",
+      "metric": 9978557,
+      "metric_name": "streams",
+      "url": "../track/55lijDD6OAjLFFUHU9tcDm.html"
+    },
+    {
+      "rank": 86,
+      "title": "Just the Way You Are",
+      "artists": "Bruno Mars",
+      "metric": 9900044,
+      "metric_name": "streams",
+      "url": "../track/7BqBn9nzAq8spo5e7cZ0dJ.html"
+    },
+    {
+      "rank": 87,
+      "title": "Do I Wanna Know?",
+      "artists": "Arctic Monkeys",
+      "metric": 9878535,
+      "metric_name": "streams",
+      "url": "../track/5FVd6KXrgO9B3JPmC8OPst.html"
+    },
+    {
+      "rank": 88,
+      "title": "Smells Like Teen Spirit - Remastered",
+      "artists": "Nirvana",
+      "metric": 9872288,
+      "metric_name": "streams",
+      "url": "../track/0gucTLf7trAf37Ua1uAyAu.html"
+    },
+    {
+      "rank": 89,
+      "title": "Peli De Terror (w/ THE FAVORITES )",
+      "artists": "Køddy G",
+      "metric": 9863934,
+      "metric_name": "streams",
+      "url": "../track/23XDZWXMOiRrm0qoKXCPbf.html"
+    },
+    {
+      "rank": 90,
+      "title": "honeybee",
+      "artists": "Olivia Rodrigo",
+      "metric": 9781767,
+      "metric_name": "streams",
+      "url": "../track/4kX7xkopoXZCfE1D6fNwl2.html"
+    },
+    {
+      "rank": 91,
+      "title": "Beautiful Things",
+      "artists": "Benson Boone",
+      "metric": 9768709,
+      "metric_name": "streams",
+      "url": "../track/3xkHsmpQCBMytMJNiDf3Ii.html"
+    },
+    {
+      "rank": 92,
+      "title": "Snowman",
+      "artists": "Sia",
+      "metric": 9749321,
+      "metric_name": "streams",
+      "url": "../track/7uoFMmxln0GPXQ0AcCBXRq.html"
+    },
+    {
+      "rank": 93,
+      "title": "Take on Me - 2015 Remaster",
+      "artists": "a-ha",
+      "metric": 9741622,
+      "metric_name": "streams",
+      "url": "../track/04aigH9HRGebQZu1JAN6X1.html"
+    },
+    {
+      "rank": 94,
+      "title": "Numb",
+      "artists": "Linkin Park",
+      "metric": 9717188,
+      "metric_name": "streams",
+      "url": "../track/2nLtzopw4rPReszdYBJU6h.html"
+    },
+    {
+      "rank": 95,
+      "title": "Movin' To The Sun (w/ Imael Angel , Ultra Naté )",
+      "artists": "HUGEL",
+      "metric": 9707191,
+      "metric_name": "streams",
+      "url": "../track/4vTsKN15Kqo3Geo9r7FhAN.html"
+    },
+    {
+      "rank": 96,
+      "title": "Orbiter",
+      "artists": "Noah Kahan",
+      "metric": 9706855,
+      "metric_name": "streams",
+      "url": "../track/77fL8ATR0dpUDLI0XLmDBV.html"
+    },
+    {
+      "rank": 97,
+      "title": "UNETHICAL",
+      "artists": "Faouzia",
+      "metric": 9689296,
+      "metric_name": "streams",
+      "url": "../track/7G8EmDx7L5zRHb6rBJDqEG.html"
+    },
+    {
+      "rank": 98,
+      "title": "Amor",
+      "artists": "Emmanuel Cortes",
+      "metric": 9671953,
+      "metric_name": "streams",
+      "url": "../track/6r6IPuFvUX72kQGc9b46rk.html"
+    },
+    {
+      "rank": 99,
+      "title": "oh yeah?",
+      "artists": "Steve Lacy",
+      "metric": 9647009,
+      "metric_name": "streams",
+      "url": "../track/22NHkFYbgxB2Zirj29Gbp8.html"
+    },
+    {
+      "rank": 100,
+      "title": "As It Was",
+      "artists": "Harry Styles",
+      "metric": 9587757,
+      "metric_name": "streams",
+      "url": "../track/4Dvkj6JhhA12EX05fT7y2e.html"
+    },
+    {
+      "rank": 101,
+      "title": "Jamaican (Bam Bam) (w/ SOLTO (FR) )",
+      "artists": "HUGEL",
+      "metric": 9572517,
+      "metric_name": "streams",
+      "url": "../track/7e4zDInS6tA2jwzphvs2Ay.html"
+    },
+    {
+      "rank": 102,
+      "title": "Somewhere Only We Know",
+      "artists": "Keane",
+      "metric": 9538634,
+      "metric_name": "streams",
+      "url": "../track/0ll8uFnc0nANY35E0Lfxvg.html"
+    },
+    {
+      "rank": 103,
+      "title": "Don't Stop The Music",
+      "artists": "Rihanna",
+      "metric": 9506358,
+      "metric_name": "streams",
+      "url": "../track/1Jo0Zg7XlrA6z0mFTZVdkn.html"
+    },
+    {
+      "rank": 104,
+      "title": "Sunflower - Spider-Man: Into the Spider-Verse (w/ Swae Lee )",
+      "artists": "Post Malone",
+      "metric": 9476819,
+      "metric_name": "streams",
+      "url": "../track/0RiRZpuVRbi7oqRdSMwhQY.html"
+    },
+    {
+      "rank": 105,
+      "title": "Si Antes Te Hubiera Conocido",
+      "artists": "KAROL G",
+      "metric": 9461438,
+      "metric_name": "streams",
+      "url": "../track/6WatFBLVB0x077xWeoVc2k.html"
+    },
+    {
+      "rank": 106,
+      "title": "BAILE INoLVIDABLE",
+      "artists": "Bad Bunny",
+      "metric": 9431407,
+      "metric_name": "streams",
+      "url": "../track/2lTm559tuIvatlT1u0JYG2.html"
+    },
+    {
+      "rank": 107,
+      "title": "Dreams - 2001 Remaster",
+      "artists": "Fleetwood Mac",
+      "metric": 9411853,
+      "metric_name": "streams",
+      "url": "../track/53qkszfgztIvkFyF31GfdQ.html"
+    },
+    {
+      "rank": 108,
+      "title": "Patient Zero",
+      "artists": "Taylor Swift",
+      "metric": 9382087,
+      "metric_name": "streams",
+      "url": "../track/11hcBLPtbMp4aQI6zGQLub.html"
+    },
+    {
+      "rank": 109,
+      "title": "Sparks",
+      "artists": "Coldplay",
+      "metric": 9354195,
+      "metric_name": "streams",
+      "url": "../track/7D0RhFcb3CrfPuTJ0obrod.html"
+    },
+    {
+      "rank": 110,
+      "title": "Payphone (w/ Wiz Khalifa )",
+      "artists": "Maroon 5",
+      "metric": 9336621,
+      "metric_name": "streams",
+      "url": "../track/1XGmzt0PVuFgQYYnV2It7A.html"
+    },
+    {
+      "rank": 111,
+      "title": "Homewrecker",
+      "artists": "sombr",
+      "metric": 9318744,
+      "metric_name": "streams",
+      "url": "../track/7tICCrK3CcyRFKza7yrR0z.html"
+    },
+    {
+      "rank": 112,
+      "title": "Feel Good Inc",
+      "artists": "Gorillaz",
+      "metric": 9266659,
+      "metric_name": "streams",
+      "url": "../track/0d28khcov6AiegSCpG5TuT.html"
+    },
+    {
+      "rank": 113,
+      "title": "There's Nothing Holdin' Me Back",
+      "artists": "Shawn Mendes",
+      "metric": 9240653,
+      "metric_name": "streams",
+      "url": "../track/79cuOz3SPQTuFrp8WgftAu.html"
+    },
+    {
+      "rank": 114,
+      "title": "Closer (w/ Halsey )",
+      "artists": "The Chainsmokers",
+      "metric": 9189939,
+      "metric_name": "streams",
+      "url": "../track/7BKLCZ1jbUBVqRi2FVlTVw.html"
+    },
+    {
+      "rank": 115,
+      "title": "Let Me Love You (w/ Justin Bieber )",
+      "artists": "DJ Snake",
+      "metric": 9129787,
+      "metric_name": "streams",
+      "url": "../track/4pdPtRcBmOSQDlJ3Fk945m.html"
+    },
+    {
+      "rank": 116,
+      "title": "Flower In A Hurricane (w/ Tame Impala , SZA , Grand Theft Auto VI , King Gizzard & The Lizard Wizard )",
+      "artists": "Justice",
+      "metric": 9087550,
+      "metric_name": "streams",
+      "url": "../track/4HCOHRCSQelz2GPX8iTamO.html"
+    },
+    {
+      "rank": 117,
+      "title": "That’s So True",
+      "artists": "Gracie Abrams",
+      "metric": 9085443,
+      "metric_name": "streams",
+      "url": "../track/7ne4VBA60CxGM75vw0EYad.html"
+    },
+    {
+      "rank": 118,
+      "title": "All The Stars (w/ SZA )",
+      "artists": "Kendrick Lamar",
+      "metric": 9079428,
+      "metric_name": "streams",
+      "url": "../track/3GCdLUSnKSMJhs4Tj6CV3s.html"
+    },
+    {
+      "rank": 119,
+      "title": "Linger - Remastered 2026",
+      "artists": "The Cranberries",
+      "metric": 9077884,
+      "metric_name": "streams",
+      "url": "../track/1WYrTfvKjQYaYfVziGG1ET.html"
+    },
+    {
+      "rank": 120,
+      "title": "The Man Who Can't Be Moved",
+      "artists": "The Script",
+      "metric": 9069788,
+      "metric_name": "streams",
+      "url": "../track/3nqqDo8CcCLke3ZoTgiOKf.html"
+    },
+    {
+      "rank": 121,
+      "title": "Only Girl (In The World)",
+      "artists": "Rihanna",
+      "metric": 9040445,
+      "metric_name": "streams",
+      "url": "../track/2ENexcMEMsYk0rVJigVD3i.html"
+    },
+    {
+      "rank": 122,
+      "title": "My Body Isn't Ready",
+      "artists": "sombr",
+      "metric": 9026914,
+      "metric_name": "streams",
+      "url": "../track/79RJg6MqIJlBuedcMqB9F0.html"
+    },
+    {
+      "rank": 123,
+      "title": "EoO",
+      "artists": "Bad Bunny",
+      "metric": 9004334,
+      "metric_name": "streams",
+      "url": "../track/6J5kc12BW5HuP3d7C3vvx8.html"
+    },
+    {
+      "rank": 124,
+      "title": "See You Again (w/ Kali Uchis )",
+      "artists": "Tyler, The Creator",
+      "metric": 9001159,
+      "metric_name": "streams",
+      "url": "../track/7KA4W4McWYRpgf0fWsJZWB.html"
+    },
+    {
+      "rank": 125,
+      "title": "Sesi Potret (w/ Ari Lesmana )",
+      "artists": "eńau",
+      "metric": 8984814,
+      "metric_name": "streams",
+      "url": "../track/4xoY4lZNoTjEuHsSmhgF1G.html"
+    },
+    {
+      "rank": 126,
+      "title": "Golden (w/ EJae , AUDREY NUNA , REI AMI , KPop Demon Hunters Cast )",
+      "artists": "HUNTR/X",
+      "metric": 8946664,
+      "metric_name": "streams",
+      "url": "../track/1CPZ5BxNNd0n0nF4Orb9JS.html"
+    },
+    {
+      "rank": 127,
+      "title": "Fade Into You",
+      "artists": "Mazzy Star",
+      "metric": 8921040,
+      "metric_name": "streams",
+      "url": "../track/1LzNfuep1bnAUR9skqdHCK.html"
+    },
+    {
+      "rank": 128,
+      "title": "Sweet Child O' Mine",
+      "artists": "Guns N' Roses",
+      "metric": 8884934,
+      "metric_name": "streams",
+      "url": "../track/7snQQk1zcKl8gZ92AnueZW.html"
+    },
+    {
+      "rank": 129,
+      "title": "Danza Kuduro (w/ Lucenzo )",
+      "artists": "Don Omar",
+      "metric": 8867199,
+      "metric_name": "streams",
+      "url": "../track/2a1o6ZejUi8U3wzzOtCOYw.html"
+    },
+    {
+      "rank": 130,
+      "title": "We Are The People",
+      "artists": "Empire Of The Sun",
+      "metric": 8797530,
+      "metric_name": "streams",
+      "url": "../track/3zEN0ii6s4DHHBpnTp3RP7.html"
+    },
+    {
+      "rank": 131,
+      "title": "Young And Beautiful",
+      "artists": "Lana Del Rey",
+      "metric": 8775276,
+      "metric_name": "streams",
+      "url": "../track/2nMeu6UenVvwUktBCpLMK9.html"
+    },
+    {
+      "rank": 132,
+      "title": "We Found Love (w/ Calvin Harris )",
+      "artists": "Rihanna",
+      "metric": 8738286,
+      "metric_name": "streams",
+      "url": "../track/1zv3WFUbZ5vPxFq9I2jAU1.html"
+    },
+    {
+      "rank": 133,
+      "title": "The Scientist",
+      "artists": "Coldplay",
+      "metric": 8733958,
+      "metric_name": "streams",
+      "url": "../track/75JFxkI2RXiU7L9VXzMkle.html"
+    },
+    {
+      "rank": 134,
+      "title": "Santa Tell Me",
+      "artists": "Ariana Grande",
+      "metric": 8716814,
+      "metric_name": "streams",
+      "url": "../track/0lizgQ7Qw35od7CYaoMBZb.html"
+    },
+    {
+      "rank": 135,
+      "title": "The Less I Know The Better",
+      "artists": "Tame Impala",
+      "metric": 8698346,
+      "metric_name": "streams",
+      "url": "../track/6K4t31amVTZDgR3sKmwUJJ.html"
+    },
+    {
+      "rank": 136,
+      "title": "nothing",
+      "artists": "Steve Lacy",
+      "metric": 8675590,
+      "metric_name": "streams",
+      "url": "../track/3lIHa4fUwNKOCSS5k3Za0i.html"
+    },
+    {
+      "rank": 137,
+      "title": "On The Floor (w/ Pitbull )",
+      "artists": "Jennifer Lopez",
+      "metric": 8670525,
+      "metric_name": "streams",
+      "url": "../track/3C0nOe05EIt1390bVABLyN.html"
+    },
+    {
+      "rank": 138,
+      "title": "Dracula",
+      "artists": "Tame Impala",
+      "metric": 8660440,
+      "metric_name": "streams",
+      "url": "../track/1NXbNEAcPvY5G1xvfN57aA.html"
+    },
+    {
+      "rank": 139,
+      "title": "Shotta's.",
+      "artists": "Season 25",
+      "metric": 8658381,
+      "metric_name": "streams",
+      "url": "../track/1ApUYfDejOBvrTnar2Wyf3.html"
+    },
+    {
+      "rank": 140,
+      "title": "About You",
+      "artists": "The 1975",
+      "metric": 8656549,
+      "metric_name": "streams",
+      "url": "../track/1fDFHXcykq4iw8Gg7s5hG9.html"
+    },
+    {
+      "rank": 141,
+      "title": "Kiss It Better",
+      "artists": "Rihanna",
+      "metric": 8651320,
+      "metric_name": "streams",
+      "url": "../track/0UHB9METy4VCXNgkcGqHqS.html"
+    },
+    {
+      "rank": 142,
+      "title": "Duvet",
+      "artists": "bôa",
+      "metric": 8644447,
+      "metric_name": "streams",
+      "url": "../track/42qNWdLKCI41S4uzfamhFM.html"
+    },
+    {
+      "rank": 143,
+      "title": "Everybody Wants To Rule The World",
+      "artists": "Tears For Fears",
+      "metric": 8644062,
+      "metric_name": "streams",
+      "url": "../track/4RvWPyQ5RL0ao9LPZeSouE.html"
+    },
+    {
+      "rank": 144,
+      "title": "Another Love",
+      "artists": "Tom Odell",
+      "metric": 8643315,
+      "metric_name": "streams",
+      "url": "../track/7jtQIBanIiJOMS6RyCx6jZ.html"
+    },
+    {
+      "rank": 145,
+      "title": "Paparazzi",
+      "artists": "Lady Gaga",
+      "metric": 8630832,
+      "metric_name": "streams",
+      "url": "../track/02XnQdf7sipaKBBHixz3Zp.html"
+    },
+    {
+      "rank": 146,
+      "title": "Boston",
+      "artists": "STELLA LEFTY",
+      "metric": 8610177,
+      "metric_name": "streams",
+      "url": "../track/36idurZmYRjJ56KQ8JD9bN.html"
+    },
+    {
+      "rank": 147,
+      "title": "COQUETA (w/ Grupo Frontera )",
+      "artists": "Fuerza Regida",
+      "metric": 8600632,
+      "metric_name": "streams",
+      "url": "../track/1PREzVLuDT6PSE9sej4wnV.html"
+    },
+    {
+      "rank": 148,
+      "title": "12 to 12",
+      "artists": "sombr",
+      "metric": 8599285,
+      "metric_name": "streams",
+      "url": "../track/05od2qm2MTSKCHxy1GBp5W.html"
+    },
+    {
+      "rank": 149,
+      "title": "bloodstream",
+      "artists": "Alyssa Grace",
+      "metric": 8569120,
+      "metric_name": "streams",
+      "url": "../track/2oWFJJW9d1bIra3zHjR6GO.html"
+    },
+    {
+      "rank": 150,
+      "title": "Perfect",
+      "artists": "Ed Sheeran",
+      "metric": 8561961,
+      "metric_name": "streams",
+      "url": "../track/0tgVpDi06FyKpA1z0VMD4v.html"
+    },
+    {
+      "rank": 151,
+      "title": "The Reason",
+      "artists": "Hoobastank",
+      "metric": 8557040,
+      "metric_name": "streams",
+      "url": "../track/5B5eTk7DF8KVp1zpQoY1XY.html"
+    },
+    {
+      "rank": 152,
+      "title": "Zombie - 2025 Remastered",
+      "artists": "The Cranberries",
+      "metric": 8526004,
+      "metric_name": "streams",
+      "url": "../track/3gjHnylel3PTRpjS44ocqr.html"
+    },
+    {
+      "rank": 153,
+      "title": "Give Me Everything (w/ Ne-Yo , AFROJACK , Nayer )",
+      "artists": "Pitbull",
+      "metric": 8524623,
+      "metric_name": "streams",
+      "url": "../track/4QNpBfC0zvjKqPJcyqBy9W.html"
+    },
+    {
+      "rank": 154,
+      "title": "Somebody That I Used To Know (w/ Kimbra )",
+      "artists": "Gotye",
+      "metric": 8468799,
+      "metric_name": "streams",
+      "url": "../track/1qDrWA6lyx8cLECdZE7TV7.html"
+    },
+    {
+      "rank": 155,
+      "title": "Purple Rain",
+      "artists": "Prince",
+      "metric": 8468525,
+      "metric_name": "streams",
+      "url": "../track/1uvyZBs4IZYRebHIB1747m.html"
+    },
+    {
+      "rank": 156,
+      "title": "Umbrella (w/ JAŸ-Z )",
+      "artists": "Rihanna",
+      "metric": 8447370,
+      "metric_name": "streams",
+      "url": "../track/2yPoXCs7BSIUrucMdK5PzV.html"
+    },
+    {
+      "rank": 157,
+      "title": "That's What I Like",
+      "artists": "Bruno Mars",
+      "metric": 8443202,
+      "metric_name": "streams",
+      "url": "../track/0KKkJNfGyhkQ5aFogxQAPU.html"
+    },
+    {
+      "rank": 158,
+      "title": "Poker Face",
+      "artists": "Lady Gaga",
+      "metric": 8418813,
+      "metric_name": "streams",
+      "url": "../track/1QV6tiMFM6fSOKOGLMHYYg.html"
+    },
+    {
+      "rank": 159,
+      "title": "Na Para Bang",
+      "artists": "Mariah Deborah",
+      "metric": 8413013,
+      "metric_name": "streams",
+      "url": "../track/5U3UOiWDos9P2NWV7xTNwJ.html"
+    },
+    {
+      "rank": 160,
+      "title": "Into You",
+      "artists": "Ariana Grande",
+      "metric": 8399831,
+      "metric_name": "streams",
+      "url": "../track/7yHEDfrJNd0zWOfXwydNH0.html"
+    },
+    {
+      "rank": 161,
+      "title": "take me home (4 christmas)",
+      "artists": "Olivia Rodrigo",
+      "metric": 8374110,
+      "metric_name": "streams",
+      "url": "../track/4UjYZS6Jbt3lee27qmiNOu.html"
+    },
+    {
+      "rank": 162,
+      "title": "DAISIES",
+      "artists": "Justin Bieber",
+      "metric": 8327011,
+      "metric_name": "streams",
+      "url": "../track/5BZsQlgw21vDOAjoqkNgKb.html"
+    },
+    {
+      "rank": 163,
+      "title": "Flashing Lights (w/ Dwele )",
+      "artists": "Kanye West",
+      "metric": 8286383,
+      "metric_name": "streams",
+      "url": "../track/5TRPicyLGbAF2LGBFbHGvO.html"
+    },
+    {
+      "rank": 164,
+      "title": "Timeless (w/ Playboi Carti )",
+      "artists": "The Weeknd",
+      "metric": 8265774,
+      "metric_name": "streams",
+      "url": "../track/0FIDCNYYjNvPVimz5icugS.html"
+    },
+    {
+      "rank": 165,
+      "title": "Lush Life",
+      "artists": "Zara Larsson",
+      "metric": 8264551,
+      "metric_name": "streams",
+      "url": "../track/1rIKgCH4H52lrvDcz50hS8.html"
+    },
+    {
+      "rank": 166,
+      "title": "S&M",
+      "artists": "Rihanna",
+      "metric": 8240530,
+      "metric_name": "streams",
+      "url": "../track/7ySUcLPVX7KudhnmNcgY2D.html"
+    },
+    {
+      "rank": 167,
+      "title": "Take Me To Church",
+      "artists": "Hozier",
+      "metric": 8238553,
+      "metric_name": "streams",
+      "url": "../track/3dYD57lRAUcMHufyqn9GcI.html"
+    },
+    {
+      "rank": 168,
+      "title": "Africa",
+      "artists": "TOTO",
+      "metric": 8223442,
+      "metric_name": "streams",
+      "url": "../track/2374M0fQpWi3dLnB54qaLX.html"
+    },
+    {
+      "rank": 169,
+      "title": "Lose Control",
+      "artists": "Teddy Swims",
+      "metric": 8205462,
+      "metric_name": "streams",
+      "url": "../track/17phhZDn6oGtzMe56NuWvj.html"
+    },
+    {
+      "rank": 170,
+      "title": "Something Just Like This (w/ Coldplay )",
+      "artists": "The Chainsmokers",
+      "metric": 8200346,
+      "metric_name": "streams",
+      "url": "../track/6RUKPb4LETWmmr3iAEQktW.html"
+    },
+    {
+      "rank": 171,
+      "title": "We Don't Talk Anymore (w/ Selena Gomez )",
+      "artists": "Charlie Puth",
+      "metric": 8192277,
+      "metric_name": "streams",
+      "url": "../track/54PbBpquVfhfrwRwvjSXbI.html"
+    },
+    {
+      "rank": 172,
+      "title": "Stressed Out",
+      "artists": "Twenty One Pilots",
+      "metric": 8176562,
+      "metric_name": "streams",
+      "url": "../track/3CRDbSIZ4r5MsZ0YwxuEkn.html"
+    },
+    {
+      "rank": 173,
+      "title": "we fell in love in october",
+      "artists": "girl in red",
+      "metric": 8166584,
+      "metric_name": "streams",
+      "url": "../track/6IPwKM3fUUzlElbvKw2sKl.html"
+    },
+    {
+      "rank": 174,
+      "title": "NORMAL",
+      "artists": "BTS",
+      "metric": 8162574,
+      "metric_name": "streams",
+      "url": "../track/4B4Q7zfd0aHcuhQBfCRnH5.html"
+    },
+    {
+      "rank": 175,
+      "title": "Jingle Bell Rock",
+      "artists": "Bobby Helms",
+      "metric": 8155667,
+      "metric_name": "streams",
+      "url": "../track/7vQbuQcyTflfCIOu3Uzzya.html"
+    },
+    {
+      "rank": 176,
+      "title": "Unforgettable (w/ Swae Lee )",
+      "artists": "French Montana",
+      "metric": 8139774,
+      "metric_name": "streams",
+      "url": "../track/3B54sVLJ402zGa6Xm4YGNe.html"
+    },
+    {
+      "rank": 177,
+      "title": "Barsaat (w/ Roni )",
+      "artists": "Banjaare",
+      "metric": 8132459,
+      "metric_name": "streams",
+      "url": "../track/0DpUQ3mpAGy3bYsEKVy6t5.html"
+    },
+    {
+      "rank": 178,
+      "title": "When I Was Your Man",
+      "artists": "Bruno Mars",
+      "metric": 8127082,
+      "metric_name": "streams",
+      "url": "../track/0B7wvvmu9EISAwZnOpjhNI.html"
+    },
+    {
+      "rank": 179,
+      "title": "RIKI",
+      "artists": "Neton Vega",
+      "metric": 8117222,
+      "metric_name": "streams",
+      "url": "../track/37wfBdDJidbipEG2fEwkWX.html"
+    },
+    {
+      "rank": 180,
+      "title": "Let Down",
+      "artists": "Radiohead",
+      "metric": 8110819,
+      "metric_name": "streams",
+      "url": "../track/2fuYa3Lx06QQJAm0MjztKr.html"
+    },
+    {
+      "rank": 181,
+      "title": "Me Rehúso",
+      "artists": "Danny Ocean",
+      "metric": 8098732,
+      "metric_name": "streams",
+      "url": "../track/6ifUES3keWjwXgae8pXI3o.html"
+    },
+    {
+      "rank": 182,
+      "title": "Pure",
+      "artists": "SIENNA SPIRO",
+      "metric": 8068221,
+      "metric_name": "streams",
+      "url": "../track/31IKMjvv6Oskp4hjGVeYsT.html"
+    },
+    {
+      "rank": 183,
+      "title": "Dunia Yang Nanti",
+      "artists": "Raim Laode",
+      "metric": 8051532,
+      "metric_name": "streams",
+      "url": "../track/1sVQuuvFDKu6vklPVeiUXT.html"
+    },
+    {
+      "rank": 184,
+      "title": "Confident - Single Version (w/ Chance the Rapper )",
+      "artists": "Justin Bieber",
+      "metric": 8014138,
+      "metric_name": "streams",
+      "url": "../track/6czM6UMQD9qE5GAUp68oud.html"
+    },
+    {
+      "rank": 185,
+      "title": "Promiscuous (w/ Timbaland )",
+      "artists": "Nelly Furtado",
+      "metric": 7992632,
+      "metric_name": "streams",
+      "url": "../track/2gam98EZKrF9XuOkU13ApN.html"
+    },
+    {
+      "rank": 186,
+      "title": "Underneath the Tree",
+      "artists": "Kelly Clarkson",
+      "metric": 7991381,
+      "metric_name": "streams",
+      "url": "../track/3nAp4IvdMPPWEH9uuXFFV5.html"
+    },
+    {
+      "rank": 187,
+      "title": "Empire State Of Mind (w/ Alicia Keys )",
+      "artists": "JAŸ-Z",
+      "metric": 7970882,
+      "metric_name": "streams",
+      "url": "../track/2igwFfvr1OAGX9SKDCPBwO.html"
+    },
+    {
+      "rank": 188,
+      "title": "Legendary Lovers",
+      "artists": "Katy Perry",
+      "metric": 7958552,
+      "metric_name": "streams",
+      "url": "../track/0pOZYYEJawmTAPtkzYKSa2.html"
+    },
+    {
+      "rank": 189,
+      "title": "The Only Exception",
+      "artists": "Paramore",
+      "metric": 7956343,
+      "metric_name": "streams",
+      "url": "../track/7JIuqL4ZqkpfGKQhYlrirs.html"
+    },
+    {
+      "rank": 190,
+      "title": "Last Friday Night (T.G.I.F.)",
+      "artists": "Katy Perry",
+      "metric": 7933378,
+      "metric_name": "streams",
+      "url": "../track/3avYqdwHKEq8beXbeWCKqJ.html"
+    },
+    {
+      "rank": 191,
+      "title": "Janice STFU",
+      "artists": "Drake",
+      "metric": 7907811,
+      "metric_name": "streams",
+      "url": "../track/514joG57v4yKTsfQmz7stz.html"
+    },
+    {
+      "rank": 192,
+      "title": "Titanium (w/ Sia )",
+      "artists": "David Guetta",
+      "metric": 7902752,
+      "metric_name": "streams",
+      "url": "../track/0lHAMNU8RGiIObScrsRgmP.html"
+    },
+    {
+      "rank": 193,
+      "title": "Espresso",
+      "artists": "Sabrina Carpenter",
+      "metric": 7899263,
+      "metric_name": "streams",
+      "url": "../track/2HRqTpkrJO5ggZyyK6NPWz.html"
+    },
+    {
+      "rank": 194,
+      "title": "Cinnamon Girl",
+      "artists": "Lana Del Rey",
+      "metric": 7844332,
+      "metric_name": "streams",
+      "url": "../track/2mdEsXPu8ZmkHRRtAdC09e.html"
+    },
+    {
+      "rank": 195,
+      "title": "Stateside + Zara Larsson (w/ Zara Larsson )",
+      "artists": "PinkPantheress",
+      "metric": 7839020,
+      "metric_name": "streams",
+      "url": "../track/1DwscornXpj8fmOmYVlqZt.html"
+    },
+    {
+      "rank": 196,
+      "title": "Summertime Sadness",
+      "artists": "Lana Del Rey",
+      "metric": 7838192,
+      "metric_name": "streams",
+      "url": "../track/1FEiijYPJtyswChfcpv3p0.html"
+    },
+    {
+      "rank": 197,
+      "title": "Have You Ever Seen The Rain",
+      "artists": "Creedence Clearwater Revival",
+      "metric": 7830406,
+      "metric_name": "streams",
+      "url": "../track/2LawezPeJhN4AWuSB0GtAU.html"
+    },
+    {
+      "rank": 198,
+      "title": "Sports car",
+      "artists": "Tate McRae",
+      "metric": 7798846,
+      "metric_name": "streams",
+      "url": "../track/5UJbgR4XF4y1DvbkxEqe8S.html"
+    },
+    {
+      "rank": 199,
+      "title": "OLIVIA LA FLAKA (w/ Tito Double P , Victor Mendivil , Ovi )",
+      "artists": "Natanael Cano",
+      "metric": 7795572,
+      "metric_name": "streams",
+      "url": "../track/6756nr1dYiw5aNLSgIHNOI.html"
+    },
+    {
+      "rank": 200,
+      "title": "Sorry",
+      "artists": "Justin Bieber",
+      "metric": 7794738,
+      "metric_name": "streams",
+      "url": "../track/69bp2EbF7Q2rqc5N3ylezZ.html"
+    }
+  ]
+}

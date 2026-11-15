@@ -1,0 +1,383 @@
+{
+  "platform": "jiosaavn",
+  "chart": "india_superhits_top_50",
+  "fetched_at": "2026-11-15T18:28:08+00:00",
+  "rows": [
+    {
+      "rank": 1,
+      "title": "Tu Mil Jaaye (From \"KING\")",
+      "artists": "Sachin-Jigar, Ed Sheeran, Arijit Singh, Kumaar, Madhubanti Bagchi",
+      "metric": 1463686,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/tu-mil-jaaye-from-king/IQsNdxAGBUc"
+    },
+    {
+      "rank": 2,
+      "title": "Guzarish",
+      "artists": "Satinder Sartaaj",
+      "metric": 2300019,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/guzarish/LwkDQhNce0k"
+    },
+    {
+      "rank": 3,
+      "title": "Gehra Hua",
+      "artists": "Irshad Kamil, Arijit Singh, Shashwat Sachdev, Armaan Khan",
+      "metric": 63920486,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/gehra-hua/QQ8jRRlhBEs"
+    },
+    {
+      "rank": 4,
+      "title": "Saiyaara",
+      "artists": "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami, Irshad Kamil",
+      "metric": 94421757,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/saiyaara/O18beQR2eX8"
+    },
+    {
+      "rank": 5,
+      "title": "Mangal Rang (From \"Ramayana\")",
+      "artists": "A.R. Rahman, Arijit Singh, Shreya Ghoshal, Kumar Vishwas",
+      "metric": 1112672,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/mangal-rang-from-ramayana/NCAqBSR2bXI"
+    },
+    {
+      "rank": 6,
+      "title": "Casa Tupka Anthemo",
+      "artists": "Yo Yo Honey Singh",
+      "metric": 4682980,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/casa-tupka-anthemo/RF80ZUZ,BEM"
+    },
+    {
+      "rank": 7,
+      "title": "Shararat (From \"Dhurandhar\")",
+      "artists": "Jasmine Sandlas, Madhubanti Bagchi, Shashwat Sachdev",
+      "metric": 28962131,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/shararat-from-dhurandhar/PzgefxlzfXQ"
+    },
+    {
+      "rank": 8,
+      "title": "Parvati",
+      "artists": "Sadhu Tiwari",
+      "metric": 5680107,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/parvati/XSxTWx90A1k"
+    },
+    {
+      "rank": 9,
+      "title": "Endhayya Saami",
+      "artists": "Ajay-Atul, Ajay Gogavale, Shweta Mohan, Ramajogayya Sastry",
+      "metric": 2946263,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/endhayya-saami/RDgyayYGeVQ"
+    },
+    {
+      "rank": 10,
+      "title": "Ashke",
+      "artists": "Karan Aujla, MXRCI",
+      "metric": 2892408,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/ashke/MQAAYi1hcnU"
+    },
+    {
+      "rank": 11,
+      "title": "Tum Hi Ho",
+      "artists": "Mithoon, Arijit Singh",
+      "metric": 375783047,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/tum-hi-ho/EToxUyFpcwQ"
+    },
+    {
+      "rank": 12,
+      "title": "Radhimaa (From \"Think Indie\")",
+      "artists": "Sai Abhyankkar, Nargis Teji, Asma Teji, Vivek",
+      "metric": 5687104,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/radhimaa-from-think-indie/IF0bWzYJDms"
+    },
+    {
+      "rank": 13,
+      "title": "Jai Jai Ram",
+      "artists": "A.R. Rahman, Shreya Ghoshal, Arijit Singh, Kumar Vishwas",
+      "metric": 1904316,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/jai-jai-ram/E1omUhN7UnA"
+    },
+    {
+      "rank": 14,
+      "title": "Barbaad",
+      "artists": "The Rish, Jubin Nautiyal",
+      "metric": 67246493,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/barbaad/IV9ZUidnXUI"
+    },
+    {
+      "rank": 15,
+      "title": "Basinga Balaalu",
+      "artists": "Kalyan Keys, Swamy Naresh, Srinidhi Nerella",
+      "metric": 8834891,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/basinga-balaalu/OyQGfjhIYwA"
+    },
+    {
+      "rank": 16,
+      "title": "Barsaat",
+      "artists": "Banjaare, Roni",
+      "metric": 5104499,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/barsaat/EkVGdQFBD3c"
+    },
+    {
+      "rank": 17,
+      "title": "Yeshanagula",
+      "artists": "Anirudh Ravichander, Singer Prabha, Jangi Reddy, Kasarla Shyam",
+      "metric": 8614889,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/yeshanagula/FzkYQwVxA3A"
+    },
+    {
+      "rank": 18,
+      "title": "Tera Mera Rishta - New Version (From \"Awarapan 2\")",
+      "artists": "Mithoon, Pritam, Sayeed Quadri, Saaj Bhatt, Subodhh Sharma",
+      "metric": 9582160,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/tera-mera-rishta-new-version-from-awarapan-2/Bw4-W0x,bnA"
+    },
+    {
+      "rank": 19,
+      "title": "Aaya Sher (From \"The Paradise\") (Telugu)",
+      "artists": "Kasarla Shyam, Anirudh Ravichander, Jangi Reddy, Arjun Chandy",
+      "metric": 25857376,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/aaya-sher-from-the-paradise-telugu/GUVffiVfUlY"
+    },
+    {
+      "rank": 20,
+      "title": "Dilruba Dilnasheen",
+      "artists": "Rito Riba, Siddhant Kaushal",
+      "metric": 756140,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/dilruba-dilnasheen/OTsCXllZeFU"
+    },
+    {
+      "rank": 21,
+      "title": "Ala Bolelo",
+      "artists": "Anirudh Ravichander, Arunraja Kamaraj",
+      "metric": 3002842,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/ala-bolelo/Hw4AeBxCYkA"
+    },
+    {
+      "rank": 22,
+      "title": "Apna Bana Le",
+      "artists": "Sachin-Jigar, Arijit Singh",
+      "metric": 239728524,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/apna-bana-le/ATIfejZ9bWw"
+    },
+    {
+      "rank": 23,
+      "title": "Arz Kiya Hai | Coke Studio Bharat",
+      "artists": "Anuv Jain",
+      "metric": 29324811,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/arz-kiya-hai-%7c-coke-studio-bharat/EwQCHCQCR0Y"
+    },
+    {
+      "rank": 24,
+      "title": "Putaapu Gang",
+      "artists": "Anirudh Ravichander, Thamizh Aadhavan",
+      "metric": 1512834,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/putaapu-gang/LytZAidXdgo"
+    },
+    {
+      "rank": 25,
+      "title": "Main Ram (From \"Ramayana\")",
+      "artists": "Prateek Walia, Sachet Tandon, Kumar Vishwas",
+      "metric": 604135,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/main-ram-from-ramayana/P0UACCVIQX0"
+    },
+    {
+      "rank": 26,
+      "title": "One Sun One Moon",
+      "artists": "Anirudh Ravichander, Super Subu, M.S Krsna, Heisenberg",
+      "metric": 2075700,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/one-sun-one-moon/Ej8qQw17fXI"
+    },
+    {
+      "rank": 27,
+      "title": "KALYANI (Remix)",
+      "artists": "ARJN, KDS, FIFTY4, Shreya Ghoshal",
+      "metric": 7189368,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/kalyani-remix/Ml4PBjBeUQo"
+    },
+    {
+      "rank": 28,
+      "title": "Magale",
+      "artists": "Sai Abhyankkar, Harini, Karthik Netha",
+      "metric": 1412490,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/magale/GioEAx5hGkY"
+    },
+    {
+      "rank": 29,
+      "title": "One Name",
+      "artists": "Anirudh Ravichander, Super Subu",
+      "metric": 1844020,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/one-name/Q0UKUjlXfAE"
+    },
+    {
+      "rank": 30,
+      "title": "Jaiye Sajana",
+      "artists": "Shashwat Sachdev, Jasmine Sandlas, Satinder Sartaaj",
+      "metric": 22866414,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/jaiye-sajana/JCseAQB2fkM"
+    },
+    {
+      "rank": 31,
+      "title": "Aeroplane",
+      "artists": "Sushin Shyam, Gana Bala, Rajpriyan",
+      "metric": 473996,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/aeroplane/BVEcBDJlTwU"
+    },
+    {
+      "rank": 32,
+      "title": "Tum Ho Toh",
+      "artists": "Vishal Mishra, Hansika Pareek, Raj Shekhar",
+      "metric": 45761574,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/tum-ho-toh/IiUFeQ1ABXA"
+    },
+    {
+      "rank": 33,
+      "title": "Zara Sa",
+      "artists": "Sayeed Quadri, Pritam, KK",
+      "metric": 184819723,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/zara-sa/JjkbABFoQlQ"
+    },
+    {
+      "rank": 34,
+      "title": "Bairan",
+      "artists": "Banjaare",
+      "metric": 23036214,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/bairan/HRoqBycHAnU"
+    },
+    {
+      "rank": 35,
+      "title": "Bindaas",
+      "artists": "Deepthi Suresh, Anirudh Ravichander, Super Subu",
+      "metric": 1324975,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/bindaas/OjghBwR8GmY"
+    },
+    {
+      "rank": 36,
+      "title": "Dhurandhar - Title Track",
+      "artists": "Hanumankind, Jasmine Sandlas, Babu Singh Maan, Shashwat Sachdev, Sudhir Yaduvanshi, Charanjit Ahuja, Muhammad Sadiq, Ranjit Kaur",
+      "metric": 34133747,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/dhurandhar-title-track/H1o-WDt9eEY"
+    },
+    {
+      "rank": 37,
+      "title": "Ala Bolelo",
+      "artists": "Anirudh Ravichander, Deepthi Suresh, Srinivasa Mouli",
+      "metric": 1989976,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/ala-bolelo/BAQsdBFVbmA"
+    },
+    {
+      "rank": 38,
+      "title": "Jaan Se Guzarte Hain",
+      "artists": "Shashwat Sachdev, Khan Saab",
+      "metric": 18770043,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/jaan-se-guzarte-hain/BVw-CAdpZ0o"
+    },
+    {
+      "rank": 39,
+      "title": "Dhurandhar The Revenge - Aari Aari",
+      "artists": "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi",
+      "metric": 16236850,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/dhurandhar-the-revenge-aari-aari/FBldXjgCU3I"
+    },
+    {
+      "rank": 40,
+      "title": "Raga of Revenge",
+      "artists": "Anirudh Ravichander",
+      "metric": 10873664,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/raga-of-revenge/JzJedyFhcEA"
+    },
+    {
+      "rank": 41,
+      "title": "Zaalima",
+      "artists": "Arijit Singh, Harshdeep Kaur",
+      "metric": 199796255,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/zaalima/IglSd0FCY3c"
+    },
+    {
+      "rank": 42,
+      "title": "Kesariya (From \"Brahmastra\")",
+      "artists": "Pritam, Arijit Singh, Amitabh Bhattacharya",
+      "metric": 214462426,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/kesariya-from-brahmastra/NQotZhVbc0A"
+    },
+    {
+      "rank": 43,
+      "title": "Dhun",
+      "artists": "Mithoon, Arijit Singh",
+      "metric": 46720152,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/dhun/O1AsaTx2Alg"
+    },
+    {
+      "rank": 44,
+      "title": "Boom Shaka",
+      "artists": "Dhanda Nyoliwala, KR$NA",
+      "metric": 9534506,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/boom-shaka/CFAMcEZbb1g"
+    },
+    {
+      "rank": 45,
+      "title": "Ae Dil Hai Mushkil Title Track",
+      "artists": "Pritam, Arijit Singh",
+      "metric": 299598946,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/ae-dil-hai-mushkil-title-track/Cg0AdD0DeQU"
+    },
+    {
+      "rank": 46,
+      "title": "Chura Ke Dil Mera",
+      "artists": "Kumar Sanu, Alka Yagnik",
+      "metric": 149409412,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/chura-ke-dil-mera/JCteYSdBRHk"
+    },
+    {
+      "rank": 47,
+      "title": "Sitaare (From \"Ikkis\")",
+      "artists": "Amitabh Bhattacharya, Arijit Singh, Sachin-Jigar",
+      "metric": 24874305,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/sitaare-from-ikkis/ORwGAR8HVQY"
+    }
+  ]
+}

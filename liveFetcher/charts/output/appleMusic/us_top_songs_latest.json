@@ -1,0 +1,807 @@
+{
+  "platform": "appleMusic",
+  "chart": "us_top_songs",
+  "fetched_at": "2026-11-15T18:28:02+00:00",
+  "rows": [
+    {
+      "rank": 1,
+      "title": "Choosin' Texas",
+      "artists": "Ella Langley",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+    },
+    {
+      "rank": 2,
+      "title": "BbY WOW",
+      "artists": "KAROL G, Judeline & rusowsky",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+    },
+    {
+      "rank": 3,
+      "title": "Housewife",
+      "artists": "Tate McRae",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774"
+    },
+    {
+      "rank": 4,
+      "title": "Been By Now",
+      "artists": "Morgan Wallen",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+    },
+    {
+      "rank": 5,
+      "title": "Janice STFU",
+      "artists": "Drake",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+    },
+    {
+      "rank": 6,
+      "title": "Dead Fresh",
+      "artists": "Lil Baby",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
+    },
+    {
+      "rank": 7,
+      "title": "In A Minute",
+      "artists": "Lil Baby",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
+    },
+    {
+      "rank": 8,
+      "title": "Solar Eclipse",
+      "artists": "Drake & Don Toliver",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
+    },
+    {
+      "rank": 9,
+      "title": "Freestyle",
+      "artists": "Lil Baby",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/freestyle/1440928174?i=1440929293"
+    },
+    {
+      "rank": 10,
+      "title": "All I Want for Christmas Is You",
+      "artists": "Mariah Carey",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
+    },
+    {
+      "rank": 11,
+      "title": "Last Thing You Need",
+      "artists": "Morgan Wallen",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+    },
+    {
+      "rank": 12,
+      "title": "WAIT FOR U (feat. Drake & Tems)",
+      "artists": "Future",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
+    },
+    {
+      "rank": 13,
+      "title": "Nicole Kidman",
+      "artists": "ADÉLA",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
+    },
+    {
+      "rank": 14,
+      "title": "Best I Ever Had",
+      "artists": "Drake",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216"
+    },
+    {
+      "rank": 15,
+      "title": "Ya Hit (feat. Drake, Travis Scott & Loe Shimmy)",
+      "artists": "Future",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506152?i=6831506154"
+    },
+    {
+      "rank": 16,
+      "title": "Lies (feat. Lana Del Rey)",
+      "artists": "Zach Bryan & Lana Del Rey",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+    },
+    {
+      "rank": 17,
+      "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "artists": "Future",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
+    },
+    {
+      "rank": 18,
+      "title": "Stop The Wedding!",
+      "artists": "Ashe",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/stop-the-wedding/6795697684?i=6795697687"
+    },
+    {
+      "rank": 19,
+      "title": "stupid song",
+      "artists": "Olivia Rodrigo",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
+    },
+    {
+      "rank": 20,
+      "title": "March Madness",
+      "artists": "Future",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/march-madness/1506297314?i=1506297772"
+    },
+    {
+      "rank": 21,
+      "title": "the cure",
+      "artists": "Olivia Rodrigo",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/the-cure/1889992111?i=1889992123"
+    },
+    {
+      "rank": 22,
+      "title": "Frozen",
+      "artists": "Lil Baby",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/frozen/1621207919?i=1621207921"
+    },
+    {
+      "rank": 23,
+      "title": "Marvins Room",
+      "artists": "Drake",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/marvins-room/1440642493?i=1440642743"
+    },
+    {
+      "rank": 24,
+      "title": "Be Her",
+      "artists": "Ella Langley",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845"
+    },
+    {
+      "rank": 25,
+      "title": "Quebec",
+      "artists": "Drake",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990"
+    },
+    {
+      "rank": 26,
+      "title": "WTF GOIN",
+      "artists": "Belly Gang Kushington & 21 Savage",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/wtf-goin/6779378647?i=6779378648"
+    },
+    {
+      "rank": 27,
+      "title": "Girls Need Love",
+      "artists": "Summer Walker",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/girls-need-love/1438765128?i=1438765134"
+    },
+    {
+      "rank": 28,
+      "title": "I'm The Problem",
+      "artists": "Morgan Wallen",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/im-the-problem/1802103958?i=1802103970"
+    },
+    {
+      "rank": 29,
+      "title": "Wants and Needs (feat. Lil Baby)",
+      "artists": "Drake",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/wants-and-needs-feat-lil-baby/1556669854?i=1556670532"
+    },
+    {
+      "rank": 30,
+      "title": "I'M DAT N***A",
+      "artists": "Future",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/im-dat-n-a/1621119097?i=1621119426"
+    },
+    {
+      "rank": 31,
+      "title": "Stick Talk",
+      "artists": "Future",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/stick-talk/1017053934?i=1017055092"
+    },
+    {
+      "rank": 32,
+      "title": "I Can't Love You Anymore",
+      "artists": "Ella Langley & Morgan Wallen",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
+    },
+    {
+      "rank": 33,
+      "title": "Sum 2 Prove",
+      "artists": "Lil Baby",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/sum-2-prove/1534816297?i=1534816484"
+    },
+    {
+      "rank": 34,
+      "title": "Kacey Talk",
+      "artists": "YoungBoy Never Broke Again",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/kacey-talk/1530122403?i=1530123009"
+    },
+    {
+      "rank": 35,
+      "title": "Party With The Boys",
+      "artists": "Don Toliver",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/party-with-the-boys/6834158209?i=6834158434"
+    },
+    {
+      "rank": 36,
+      "title": "Snooze",
+      "artists": "SZA",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/snooze/1657869377?i=1657869492"
+    },
+    {
+      "rank": 37,
+      "title": "Right On",
+      "artists": "Lil Baby",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/right-on/1618153462?i=1618153473"
+    },
+    {
+      "rank": 38,
+      "title": "So Good (feat. Kendrick Lamar)",
+      "artists": "Jhené Aiko",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/so-good-feat-kendrick-lamar/6810715695?i=6810716062"
+    },
+    {
+      "rank": 39,
+      "title": "Power Trip (feat. Miguel)",
+      "artists": "J. Cole",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/power-trip-feat-miguel/1529510479?i=1529510489"
+    },
+    {
+      "rank": 40,
+      "title": "Underneath the Tree",
+      "artists": "Kelly Clarkson",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/underneath-the-tree/720861443?i=720861445"
+    },
+    {
+      "rank": 41,
+      "title": "Last Night",
+      "artists": "Morgan Wallen",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/last-night/1818423949?i=1818424212"
+    },
+    {
+      "rank": 42,
+      "title": "Broken Window Serenade",
+      "artists": "Whiskey Myers",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/broken-window-serenade/1813021356?i=1813021660"
+    },
+    {
+      "rank": 43,
+      "title": "Boston",
+      "artists": "STELLA LEFTY",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/boston/1884403092?i=1884403093"
+    },
+    {
+      "rank": 44,
+      "title": "Knife Talk (feat. 21 Savage & Project Pat)",
+      "artists": "Drake",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/knife-talk-feat-21-savage-project-pat/1584281467?i=1584281787"
+    },
+    {
+      "rank": 45,
+      "title": "Don't We",
+      "artists": "Morgan Wallen",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/dont-we/1802103958?i=1802104400"
+    },
+    {
+      "rank": 46,
+      "title": "Wicked Games",
+      "artists": "The Weeknd",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/wicked-games/1714908584?i=1714908987"
+    },
+    {
+      "rank": 47,
+      "title": "Now Who",
+      "artists": "YoungBoy Never Broke Again",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/now-who/1713814104?i=1713814120"
+    },
+    {
+      "rank": 48,
+      "title": "Broken Clocks",
+      "artists": "SZA",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/broken-clocks/1239976329?i=1239976610"
+    },
+    {
+      "rank": 49,
+      "title": "Jingle Bell Rock",
+      "artists": "Bobby Helms",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/jingle-bell-rock/1358462130?i=1358462132"
+    },
+    {
+      "rank": 50,
+      "title": "30 For 30 (with Kendrick Lamar)",
+      "artists": "SZA",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/30-for-30-with-kendrick-lamar/1796270264?i=1796270267"
+    },
+    {
+      "rank": 51,
+      "title": "A Couple Minutes",
+      "artists": "Olivia Dean",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/a-couple-minutes/1817609404?i=1817609514"
+    },
+    {
+      "rank": 52,
+      "title": "Don't",
+      "artists": "Bryson Tiller",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/dont/1031354875?i=1031354882"
+    },
+    {
+      "rank": 53,
+      "title": "Top Uh It",
+      "artists": "Lil Baby",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/top-uh-it/6823820064?i=6823820065"
+    },
+    {
+      "rank": 54,
+      "title": "I’m Spent",
+      "artists": "Drake & Loe Shimmy",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/im-spent/6769551464?i=6769551476"
+    },
+    {
+      "rank": 55,
+      "title": "Mr. Do Something",
+      "artists": "Lil Baby",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/mr-do-something/6823820064?i=6823820066"
+    },
+    {
+      "rank": 56,
+      "title": "Man I Need",
+      "artists": "Olivia Dean",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/man-i-need/1817609404?i=1817609509"
+    },
+    {
+      "rank": 57,
+      "title": "Low Down",
+      "artists": "Lil Baby",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/low-down/1534816297?i=1534816500"
+    },
+    {
+      "rank": 58,
+      "title": "Money In The Grave (feat. Rick Ross)",
+      "artists": "Drake",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/money-in-the-grave-feat-rick-ross/1468617896?i=1468618077"
+    },
+    {
+      "rank": 59,
+      "title": "Just In Case",
+      "artists": "Morgan Wallen",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/just-in-case/1802103958?i=1802103977"
+    },
+    {
+      "rank": 60,
+      "title": "God's Plan",
+      "artists": "Drake",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/gods-plan/1418213110?i=1418213269"
+    },
+    {
+      "rank": 61,
+      "title": "E85",
+      "artists": "Don Toliver",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/e85/1878377184?i=1878377419"
+    },
+    {
+      "rank": 62,
+      "title": "Thinkin’ Bout Me",
+      "artists": "Morgan Wallen",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/thinkin-bout-me/1818423949?i=1818425528"
+    },
+    {
+      "rank": 63,
+      "title": "Vette Motors",
+      "artists": "YoungBoy Never Broke Again",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/vette-motors/1617170958?i=1617171238"
+    },
+    {
+      "rank": 64,
+      "title": "Wasted On You",
+      "artists": "Morgan Wallen",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/wasted-on-you/1818469543?i=1818469738"
+    },
+    {
+      "rank": 65,
+      "title": "No Flockin",
+      "artists": "Kodak Black",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/no-flockin/1056383797?i=1056384020"
+    },
+    {
+      "rank": 66,
+      "title": "So Easy (To Fall In Love)",
+      "artists": "Olivia Dean",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
+    },
+    {
+      "rank": 67,
+      "title": "Cowgirls (feat. ERNEST)",
+      "artists": "Morgan Wallen",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/cowgirls-feat-ernest/1818423949?i=1818426110"
+    },
+    {
+      "rank": 68,
+      "title": "Body",
+      "artists": "Summer Walker",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/body/1481606156?i=1481606158"
+    },
+    {
+      "rank": 69,
+      "title": "How It Feels",
+      "artists": "Lil Baby & Lil Durk",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/how-it-feels/1569712089?i=1569712108"
+    },
+    {
+      "rank": 70,
+      "title": "Like That",
+      "artists": "Future, Metro Boomin & Kendrick Lamar",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/like-that/1737149923?i=1737150439"
+    },
+    {
+      "rank": 71,
+      "title": "Great Expectation",
+      "artists": "SIENNA SPIRO",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/great-expectation/6769552402?i=6769552411"
+    },
+    {
+      "rank": 72,
+      "title": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      "artists": "DJ Khaled",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/wild-thoughts-feat-rihanna-bryson-tiller/1244230120?i=1244230126"
+    },
+    {
+      "rank": 73,
+      "title": "Mr. Brightside",
+      "artists": "The Killers",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/mr-brightside/1526194184?i=1526194192"
+    },
+    {
+      "rank": 74,
+      "title": "Passionfruit",
+      "artists": "Drake",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/passionfruit/1440890708?i=1440891494"
+    },
+    {
+      "rank": 75,
+      "title": "Not Like Us",
+      "artists": "Kendrick Lamar",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/not-like-us/1744776162?i=1744776167"
+    },
+    {
+      "rank": 76,
+      "title": "Leave You Alone (feat. Ne-Yo)",
+      "artists": "Jeezy",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/leave-you-alone-feat-ne-yo/1440760265?i=1440760661"
+    },
+    {
+      "rank": 77,
+      "title": "What I Want",
+      "artists": "Morgan Wallen & Tate McRae",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/what-i-want/1802103958?i=1802103975"
+    },
+    {
+      "rank": 78,
+      "title": "Yonaguni",
+      "artists": "Bad Bunny",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/yonaguni/1570323047?i=1570323056"
+    },
+    {
+      "rank": 79,
+      "title": "Take Me Back (Leave Me There)",
+      "artists": "Cody Johnson",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/take-me-back-leave-me-there/1892465981?i=1892466278"
+    },
+    {
+      "rank": 80,
+      "title": "deja vu",
+      "artists": "Olivia Rodrigo",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/deja-vu/1560735414?i=1560735548"
+    },
+    {
+      "rank": 81,
+      "title": "I Had Some Help (feat. Morgan Wallen)",
+      "artists": "Post Malone",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/i-had-some-help-feat-morgan-wallen/1744439045?i=1744439049"
+    },
+    {
+      "rank": 82,
+      "title": "Controlla",
+      "artists": "Drake",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/controlla/1440841363?i=1440841382"
+    },
+    {
+      "rank": 83,
+      "title": "Tennessee Whiskey",
+      "artists": "Chris Stapleton",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/tennessee-whiskey/1440827477?i=1440827492"
+    },
+    {
+      "rank": 84,
+      "title": "Valuable Pain",
+      "artists": "YoungBoy Never Broke Again",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/valuable-pain/1447442327?i=1447442333"
+    },
+    {
+      "rank": 85,
+      "title": "Poetic Justice (feat. Drake)",
+      "artists": "Kendrick Lamar",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/poetic-justice-feat-drake/1440818890?i=1440818972"
+    },
+    {
+      "rank": 86,
+      "title": "Untouchable",
+      "artists": "YoungBoy Never Broke Again",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/untouchable/1266332358?i=1266332375"
+    },
+    {
+      "rank": 87,
+      "title": "Cinderella (feat. Ty Dolla $ign)",
+      "artists": "Mac Miller",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/cinderella-feat-ty-dolla-%24ign/1137965822?i=1137966332"
+    },
+    {
+      "rank": 88,
+      "title": "712PM",
+      "artists": "Future",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/712pm/1621803882?i=1621803883"
+    },
+    {
+      "rank": 89,
+      "title": "Yo (Excuse Me Miss)",
+      "artists": "Chris Brown",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/yo-excuse-me-miss/323098604?i=323098607"
+    },
+    {
+      "rank": 90,
+      "title": "Bitch, Don’t Kill My Vibe",
+      "artists": "Kendrick Lamar",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/bitch-dont-kill-my-vibe/1471264092?i=1471264095"
+    },
+    {
+      "rank": 91,
+      "title": "Orbiter",
+      "artists": "Noah Kahan",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/orbiter/1894997820?i=6762757958"
+    },
+    {
+      "rank": 92,
+      "title": "Something in the Orange",
+      "artists": "Zach Bryan",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/something-in-the-orange/1620419728?i=1620419734"
+    },
+    {
+      "rank": 93,
+      "title": "SOMEBODY LOVES ME",
+      "artists": "PARTYNEXTDOOR & Drake",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/somebody-loves-me/6814095592?i=6814096111"
+    },
+    {
+      "rank": 94,
+      "title": "goosebumps",
+      "artists": "Travis Scott",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/goosebumps/1150135681?i=1150135924"
+    },
+    {
+      "rank": 95,
+      "title": "Cold Shoulder",
+      "artists": "Drake, Don Toliver & Yebba",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/cold-shoulder/6818209777?i=6818209992"
+    },
+    {
+      "rank": 96,
+      "title": "Love Galore (feat. Travis Scott)",
+      "artists": "SZA",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/love-galore-feat-travis-scott/1239976329?i=1239976603"
+    },
+    {
+      "rank": 97,
+      "title": "Last Christmas (Single Version)",
+      "artists": "Wham!",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/last-christmas-single-version/202117886?i=202117984"
+    },
+    {
+      "rank": 98,
+      "title": "Love Me (feat. Drake & Future)",
+      "artists": "Lil Wayne",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/love-me-feat-drake-future/1440859562?i=1440859905"
+    },
+    {
+      "rank": 99,
+      "title": "You Proof",
+      "artists": "Morgan Wallen",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/you-proof/1818406806?i=1818407111"
+    },
+    {
+      "rank": 100,
+      "title": "Patient Zero",
+      "artists": "Taylor Swift",
+      "metric": null,
+      "metric_name": null,
+      "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425"
+    }
+  ]
+}

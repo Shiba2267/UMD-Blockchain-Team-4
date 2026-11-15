@@ -1,0 +1,5 @@
+# Install everything with:  py -m pip install -r requirements.txt
+requests          # web requests (every platform)
+beautifulsoup4    # reading HTML pages (Spotify via kworb, Melon) - imported as "bs4"
+playwright        # real browser (TikTok only); after installing, also run: py -m playwright install chromium
+

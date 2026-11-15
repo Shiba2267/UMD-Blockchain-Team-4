@@ -1,0 +1,807 @@
+{
+  "platform": "deezer",
+  "chart": "top_worldwide",
+  "fetched_at": "2026-11-15T18:28:03+00:00",
+  "rows": [
+    {
+      "rank": 1,
+      "title": "Boston",
+      "artists": "STELLA LEFTY",
+      "metric": 873262,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3895241341"
+    },
+    {
+      "rank": 2,
+      "title": "Choosin' Texas",
+      "artists": "Ella Langley",
+      "metric": 978085,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3602074142"
+    },
+    {
+      "rank": 3,
+      "title": "Been By Now",
+      "artists": "Morgan Wallen",
+      "metric": 768651,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4167204822"
+    },
+    {
+      "rank": 4,
+      "title": "Be Her",
+      "artists": "Ella Langley",
+      "metric": 805867,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3834003271"
+    },
+    {
+      "rank": 5,
+      "title": "BbY WOW",
+      "artists": "KAROL G",
+      "metric": 974722,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4208859922"
+    },
+    {
+      "rank": 6,
+      "title": "Dracula (with JENNIE)",
+      "artists": "Tame Impala",
+      "metric": 982905,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3818963601"
+    },
+    {
+      "rank": 7,
+      "title": "Housewife",
+      "artists": "Tate McRae",
+      "metric": 998094,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4350411742"
+    },
+    {
+      "rank": 8,
+      "title": "hate that i made you love me",
+      "artists": "Ariana Grande",
+      "metric": 999011,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4045817471"
+    },
+    {
+      "rank": 9,
+      "title": "Nicole Kidman",
+      "artists": "ADÉLA",
+      "metric": 990767,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4250696681"
+    },
+    {
+      "rank": 10,
+      "title": "stupid song",
+      "artists": "Olivia Rodrigo",
+      "metric": 965662,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4078104881"
+    },
+    {
+      "rank": 11,
+      "title": "Patient Zero",
+      "artists": "Taylor Swift",
+      "metric": 999450,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4304169612"
+    },
+    {
+      "rank": 12,
+      "title": "Another Drink",
+      "artists": "Marshmello",
+      "metric": 597947,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4098248331"
+    },
+    {
+      "rank": 13,
+      "title": "Mexico Honey",
+      "artists": "Kacey Musgraves",
+      "metric": 720480,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3991431871"
+    },
+    {
+      "rank": 14,
+      "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "artists": "Taylor Swift",
+      "metric": 799442,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4058916481"
+    },
+    {
+      "rank": 15,
+      "title": "Jaded",
+      "artists": "Koe Wetzel",
+      "metric": 646199,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4203392972"
+    },
+    {
+      "rank": 16,
+      "title": "Take Me Back (Leave Me There)",
+      "artists": "Cody Johnson",
+      "metric": 646873,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3954011381"
+    },
+    {
+      "rank": 17,
+      "title": "That's Just Me",
+      "artists": "Riley Green",
+      "metric": 566561,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4279390832"
+    },
+    {
+      "rank": 18,
+      "title": "Last Thing You Need (from GTAVI: The Album)",
+      "artists": "Morgan Wallen",
+      "metric": 748850,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4292571182"
+    },
+    {
+      "rank": 19,
+      "title": "Woman",
+      "artists": "Kane Brown",
+      "metric": 615041,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3884901601"
+    },
+    {
+      "rank": 20,
+      "title": "Phone, Keys, Wallet",
+      "artists": "Lainey Wilson",
+      "metric": 586525,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4049283551"
+    },
+    {
+      "rank": 21,
+      "title": "South Of Sanity",
+      "artists": "Zach Top",
+      "metric": 505046,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3406102021"
+    },
+    {
+      "rank": 22,
+      "title": "Medicine",
+      "artists": "Megan Moroney",
+      "metric": 503284,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3850104061"
+    },
+    {
+      "rank": 23,
+      "title": "Something To Lose",
+      "artists": "STELLA LEFTY",
+      "metric": 569067,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4020643591"
+    },
+    {
+      "rank": 24,
+      "title": "Loving Life Again",
+      "artists": "Ella Langley",
+      "metric": 589640,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3904211281"
+    },
+    {
+      "rank": 25,
+      "title": "Kid Myself",
+      "artists": "John Morgan",
+      "metric": 578663,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3697436932"
+    },
+    {
+      "rank": 26,
+      "title": "Rethink Some Things",
+      "artists": "Luke Combs",
+      "metric": 640367,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3899622791"
+    },
+    {
+      "rank": 27,
+      "title": "Get To Drinkin'",
+      "artists": "Zach John King",
+      "metric": 385426,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3812467942"
+    },
+    {
+      "rank": 28,
+      "title": "Better Me For You (Brown Eyes)",
+      "artists": "Max McNown",
+      "metric": 630867,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3092229871"
+    },
+    {
+      "rank": 29,
+      "title": "Be By You",
+      "artists": "Luke Combs",
+      "metric": 732441,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3838327301"
+    },
+    {
+      "rank": 30,
+      "title": "You for Me (Smoky Mountain Demo)",
+      "artists": "Megan Moroney",
+      "metric": 345749,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4389086081"
+    },
+    {
+      "rank": 31,
+      "title": "Ain't My Problem",
+      "artists": "Mitchell Tenpenny",
+      "metric": 449722,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4256829341"
+    },
+    {
+      "rank": 32,
+      "title": "So Good",
+      "artists": "Jhené Aiko",
+      "metric": 661995,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4278790462"
+    },
+    {
+      "rank": 33,
+      "title": "Love Somebody",
+      "artists": "Morgan Wallen",
+      "metric": 702614,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3040572191"
+    },
+    {
+      "rank": 34,
+      "title": "Ordinary",
+      "artists": "Alex Warren",
+      "metric": 990241,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3210709941"
+    },
+    {
+      "rank": 35,
+      "title": "Carry On",
+      "artists": "Kenny Chesney",
+      "metric": 602833,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3961427991"
+    },
+    {
+      "rank": 36,
+      "title": "Don't We",
+      "artists": "Morgan Wallen",
+      "metric": 557761,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3366677031"
+    },
+    {
+      "rank": 37,
+      "title": "McArthur",
+      "artists": "HARDY",
+      "metric": 554638,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3792429142"
+    },
+    {
+      "rank": 38,
+      "title": "DtMF",
+      "artists": "Bad Bunny",
+      "metric": 981279,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3171003131"
+    },
+    {
+      "rank": 39,
+      "title": "Man I Need",
+      "artists": "Olivia Dean",
+      "metric": 991622,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3503857201"
+    },
+    {
+      "rank": 40,
+      "title": "Go Again",
+      "artists": "Riley Green",
+      "metric": 489613,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4279390852"
+    },
+    {
+      "rank": 41,
+      "title": "Cowgirl",
+      "artists": "Shaboozey",
+      "metric": 656836,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4057986201"
+    },
+    {
+      "rank": 42,
+      "title": "Empty Words",
+      "artists": "Corey Kent",
+      "metric": 555966,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3842044081"
+    },
+    {
+      "rank": 43,
+      "title": "Folded",
+      "artists": "Kehlani",
+      "metric": 794554,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3410232121"
+    },
+    {
+      "rank": 44,
+      "title": "I Had Some Help",
+      "artists": "Post Malone",
+      "metric": 750941,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/2780753191"
+    },
+    {
+      "rank": 45,
+      "title": "dance around it",
+      "artists": "Ashley Cooke",
+      "metric": 332737,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4208826162"
+    },
+    {
+      "rank": 46,
+      "title": "Say So",
+      "artists": "Dan + Shay",
+      "metric": 390197,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4031003581"
+    },
+    {
+      "rank": 47,
+      "title": "All My Exes",
+      "artists": "Lauren Alaina",
+      "metric": 468630,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3349000101"
+    },
+    {
+      "rank": 48,
+      "title": "Hits Me",
+      "artists": "Hudson Westbrook",
+      "metric": 238902,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4109402351"
+    },
+    {
+      "rank": 49,
+      "title": "Country And She Knows It",
+      "artists": "Luke Bryan",
+      "metric": 614736,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3911920921"
+    },
+    {
+      "rank": 50,
+      "title": "Am I Okay?",
+      "artists": "Megan Moroney",
+      "metric": 557475,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/2881248402"
+    },
+    {
+      "rank": 51,
+      "title": "No Broke Boys",
+      "artists": "Disco Lines",
+      "metric": 946199,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3410229851"
+    },
+    {
+      "rank": 52,
+      "title": "Out Of That Truck",
+      "artists": "Carrie Underwood",
+      "metric": 462460,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/2175514217"
+    },
+    {
+      "rank": 53,
+      "title": "Appalachian Raised",
+      "artists": "Cigarettes @ Sunset",
+      "metric": 421673,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4037523341"
+    },
+    {
+      "rank": 54,
+      "title": "The Day I Hang It Up",
+      "artists": "Gavin Adcock",
+      "metric": 379498,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4152021292"
+    },
+    {
+      "rank": 55,
+      "title": "Worth Your Wild",
+      "artists": "Russell Dickerson",
+      "metric": 422240,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3467274001"
+    },
+    {
+      "rank": 56,
+      "title": "Good Girls & Cowgirls",
+      "artists": "Zach Top",
+      "metric": 570722,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4160471862"
+    },
+    {
+      "rank": 57,
+      "title": "Talking Body",
+      "artists": "Tove Lo",
+      "metric": 873957,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/84669123"
+    },
+    {
+      "rank": 58,
+      "title": "Are We Ever Gonna Work Out, Baby?",
+      "artists": "Joshua Slone",
+      "metric": 425668,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4323142102"
+    },
+    {
+      "rank": 59,
+      "title": "Killin’ Me",
+      "artists": "Parker McCollum",
+      "metric": 441089,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3398438561"
+    },
+    {
+      "rank": 60,
+      "title": "Weekend In Texas",
+      "artists": "Kacey Musgraves",
+      "metric": 672517,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4358409682"
+    },
+    {
+      "rank": 61,
+      "title": "Livin' On A Prayer",
+      "artists": "Bon Jovi",
+      "metric": 936708,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/538660022"
+    },
+    {
+      "rank": 62,
+      "title": "Sweet Child O' Mine",
+      "artists": "Guns N' Roses",
+      "metric": 934281,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/518458172"
+    },
+    {
+      "rank": 63,
+      "title": "Good News",
+      "artists": "Shaboozey",
+      "metric": 740439,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3056032231"
+    },
+    {
+      "rank": 64,
+      "title": "So Easy (To Fall In Love)",
+      "artists": "Olivia Dean",
+      "metric": 959362,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3562948071"
+    },
+    {
+      "rank": 65,
+      "title": "MUTT",
+      "artists": "Leon Thomas",
+      "metric": 696036,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/2929833161"
+    },
+    {
+      "rank": 66,
+      "title": "Gabriela",
+      "artists": "KATSEYE",
+      "metric": 955863,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3412611901"
+    },
+    {
+      "rank": 67,
+      "title": "Soft Spot",
+      "artists": "keshi",
+      "metric": 519172,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/2981829091"
+    },
+    {
+      "rank": 68,
+      "title": "Burning Blue",
+      "artists": "Mariah The Scientist",
+      "metric": 647498,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3345513301"
+    },
+    {
+      "rank": 69,
+      "title": "Guy For That",
+      "artists": "Post Malone",
+      "metric": 551589,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/2945220561"
+    },
+    {
+      "rank": 70,
+      "title": "Dancing In the Dark",
+      "artists": "Bruce Springsteen",
+      "metric": 835123,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/15586246"
+    },
+    {
+      "rank": 71,
+      "title": "My Love Mine All Mine",
+      "artists": "Mitski",
+      "metric": 888523,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/2365569495"
+    },
+    {
+      "rank": 72,
+      "title": "BIRDS OF A FEATHER",
+      "artists": "Billie Eilish",
+      "metric": 963029,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/2801558052"
+    },
+    {
+      "rank": 73,
+      "title": "The Fate of Ophelia",
+      "artists": "Taylor Swift",
+      "metric": 999852,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3579685431"
+    },
+    {
+      "rank": 74,
+      "title": "Dai Dai",
+      "artists": "Shakira",
+      "metric": 990618,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4015341011"
+    },
+    {
+      "rank": 75,
+      "title": "Snakeskin Boots",
+      "artists": "Miranda Lambert",
+      "metric": 554662,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4304962762"
+    },
+    {
+      "rank": 76,
+      "title": "WHITE KEYS",
+      "artists": "Dominic Fike",
+      "metric": 887767,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3651959272"
+    },
+    {
+      "rank": 77,
+      "title": "Manchild",
+      "artists": "Sabrina Carpenter",
+      "metric": 908720,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3400077541"
+    },
+    {
+      "rank": 78,
+      "title": "Billie Jean",
+      "artists": "Michael Jackson",
+      "metric": 971418,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4603408"
+    },
+    {
+      "rank": 79,
+      "title": "A Bar Song (Tipsy)",
+      "artists": "Shaboozey",
+      "metric": 860664,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/2729273551"
+    },
+    {
+      "rank": 80,
+      "title": "Kinda Love It",
+      "artists": "Lainey Wilson",
+      "metric": 671619,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4323334062"
+    },
+    {
+      "rank": 81,
+      "title": "Just In Case",
+      "artists": "Morgan Wallen",
+      "metric": 603906,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3278152451"
+    },
+    {
+      "rank": 82,
+      "title": "Imagine That",
+      "artists": "Riley Green",
+      "metric": 409183,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4279390862"
+    },
+    {
+      "rank": 83,
+      "title": "GO!",
+      "artists": "CORTIS",
+      "metric": 710768,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3540344801"
+    },
+    {
+      "rank": 84,
+      "title": "Fame is a Gun",
+      "artists": "Addison Rae",
+      "metric": 848971,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3387454721"
+    },
+    {
+      "rank": 85,
+      "title": "I Can't Love You Anymore",
+      "artists": "Ella Langley",
+      "metric": 709618,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3978161521"
+    },
+    {
+      "rank": 86,
+      "title": "Africa",
+      "artists": "Toto",
+      "metric": 964180,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/1079668"
+    },
+    {
+      "rank": 87,
+      "title": "TEXAS HOLD 'EM",
+      "artists": "Beyoncé",
+      "metric": 898042,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/2658723742"
+    },
+    {
+      "rank": 88,
+      "title": "hot shit",
+      "artists": "CIL",
+      "metric": 415438,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3360666501"
+    },
+    {
+      "rank": 89,
+      "title": "Your Love",
+      "artists": "The Outfield",
+      "metric": 876651,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/856124"
+    },
+    {
+      "rank": 90,
+      "title": "Love Me To Heaven",
+      "artists": "Jonas Brothers",
+      "metric": 627899,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3278141801"
+    },
+    {
+      "rank": 91,
+      "title": "I Know I Know",
+      "artists": "STELLA LEFTY",
+      "metric": 665886,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3968924241"
+    },
+    {
+      "rank": 92,
+      "title": "Stateside + Zara Larsson",
+      "artists": "PinkPantheress",
+      "metric": 940875,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3588926901"
+    },
+    {
+      "rank": 93,
+      "title": "DAISIES",
+      "artists": "Justin Bieber",
+      "metric": 906481,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3454558661"
+    },
+    {
+      "rank": 94,
+      "title": "12 to 12",
+      "artists": "sombr",
+      "metric": 959353,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3471224101"
+    },
+    {
+      "rank": 95,
+      "title": "SPEED DEMON",
+      "artists": "Justin Bieber",
+      "metric": 664741,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3541914121"
+    },
+    {
+      "rank": 96,
+      "title": "Beautiful Things",
+      "artists": "Benson Boone",
+      "metric": 920263,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/2704682202"
+    },
+    {
+      "rank": 97,
+      "title": "Could It Be I'm Falling in Love",
+      "artists": "Dash Of Honey",
+      "metric": 199455,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/88643787"
+    },
+    {
+      "rank": 98,
+      "title": "Beat It",
+      "artists": "Michael Jackson",
+      "metric": 970264,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/4763165"
+    },
+    {
+      "rank": 99,
+      "title": "Glory Days",
+      "artists": "Gabby Barrett",
+      "metric": 367203,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/2309923445"
+    },
+    {
+      "rank": 100,
+      "title": "d£aler",
+      "artists": "Lola Young",
+      "metric": 617980,
+      "metric_name": "popularity",
+      "url": "https://www.deezer.com/track/3466173051"
+    }
+  ]
+}

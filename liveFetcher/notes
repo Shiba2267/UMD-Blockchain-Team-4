@@ -1,0 +1,3 @@
+to keep it running constantly (i.e. poll every 30 minutes), 
+we're gonna need some method to well, keep it running. github actions, macmini, a rasberry pi, whatever. 
+github actions prob best

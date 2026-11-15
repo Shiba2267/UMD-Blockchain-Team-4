@@ -1,0 +1,807 @@
+{
+  "platform": "youtubeMusic",
+  "chart": "global_tracks_weekly",
+  "fetched_at": "2026-11-15T18:28:01+00:00",
+  "rows": [
+    {
+      "rank": 1,
+      "title": "गुज़ारिश",
+      "artists": "Satinder Sartaaj",
+      "metric": 42613776,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=CEbB9kdu8ng"
+    },
+    {
+      "rank": 2,
+      "title": "Dai Dai",
+      "artists": "Shakira, Burna Boy",
+      "metric": 38913197,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=fcnDmrtj6Sk"
+    },
+    {
+      "rank": 3,
+      "title": "KALYANI (Remix)",
+      "artists": "ARJN, KDS, FIFTY4, Shreya Ghoshal",
+      "metric": 38196241,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=xvT1jH8B9AM"
+    },
+    {
+      "rank": 4,
+      "title": "BbY WOW",
+      "artists": "KAROL G, Judeline, rusowsky",
+      "metric": 34156263,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=fRIhCiUVaKs"
+    },
+    {
+      "rank": 5,
+      "title": "Alfaaz",
+      "artists": "Hamza Malik, Zain Zohaib",
+      "metric": 29807927,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=cQq6iLF66Gc"
+    },
+    {
+      "rank": 6,
+      "title": "Parvati",
+      "artists": "Sadhu Tiwari",
+      "metric": 25784588,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=s2HYl12gmOY"
+    },
+    {
+      "rank": 7,
+      "title": "Barsaat",
+      "artists": "Banjaare, Roni",
+      "metric": 24420744,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=ebZj_nrmH-c"
+    },
+    {
+      "rank": 8,
+      "title": "Tu Mil Jaaye (feat. Ed Sheeran)",
+      "artists": "Sachin-Jigar, Arijit Singh, Madhubanti Bagchi, Kumaar",
+      "metric": 23614976,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=BPZkZpGMpXA"
+    },
+    {
+      "rank": 9,
+      "title": "Casa Tupka Anthemo (feat. Priyanshi Srivastava)",
+      "artists": "Yo Yo Honey Singh",
+      "metric": 23359515,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=vRjaGgDsWSo"
+    },
+    {
+      "rank": 10,
+      "title": "Пешта",
+      "artists": "Xamdam Sobirov",
+      "metric": 23135262,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=vSA7yMrTETg"
+    },
+    {
+      "rank": 11,
+      "title": "Veezha Veera",
+      "artists": "Tippu, Sai Abhyankkar",
+      "metric": 21646417,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=-ZnYdmreOrk"
+    },
+    {
+      "rank": 12,
+      "title": "체포하겠어",
+      "artists": "ILLIT",
+      "metric": 21455607,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=V2V9-9VhYJo"
+    },
+    {
+      "rank": 13,
+      "title": "Ala Bolelo",
+      "artists": "Anirudh Ravichander, Arunraja Kamaraj",
+      "metric": 20434848,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=hIHUeuw2yj8"
+    },
+    {
+      "rank": 14,
+      "title": "BACKROOMS",
+      "artists": "Fede Vigevani, Club Misterio",
+      "metric": 19671199,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=6dYSJ164Fb4"
+    },
+    {
+      "rank": 15,
+      "title": "Sebebi Yar (Live)",
+      "artists": "BLOK3",
+      "metric": 18127017,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=69L-nKRY3ac"
+    },
+    {
+      "rank": 16,
+      "title": "Shararat",
+      "artists": "Shashwat Sachdev, Madhubanti Bagchi, Jasmine Sandlas",
+      "metric": 17870243,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=YyepU5ztLf4"
+    },
+    {
+      "rank": 17,
+      "title": "NEON",
+      "artists": "A2O, A2O LITE",
+      "metric": 17840355,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=D968qfUZMUE"
+    },
+    {
+      "rank": 18,
+      "title": "Gehra Hua",
+      "artists": "Shashwat Sachdev, Arijit Singh, Irshad Kamil, Armaan Khan",
+      "metric": 17686824,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=GX9x62kFsVU"
+    },
+    {
+      "rank": 19,
+      "title": "Training Season",
+      "artists": "Dua Lipa",
+      "metric": 17655496,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=ZjBZ8MUnB0E"
+    },
+    {
+      "rank": 20,
+      "title": "Ishq de Fanniyar",
+      "artists": "Jyotica Tangri",
+      "metric": 17069850,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=7OGSeZP0sc8"
+    },
+    {
+      "rank": 21,
+      "title": "Stop The Wedding!",
+      "artists": "Ashe",
+      "metric": 16898432,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=DLV8FpyxZPQ"
+    },
+    {
+      "rank": 22,
+      "title": "Save Your Tears",
+      "artists": "The Weeknd",
+      "metric": 16638785,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=XXYlFuWEuKI"
+    },
+    {
+      "rank": 23,
+      "title": "Pós (Ao Vivo)",
+      "artists": "Felipe e Rodrigo",
+      "metric": 16104829,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=7qcq8wAX9pU"
+    },
+    {
+      "rank": 24,
+      "title": "Flash (Minha Mente) 💠",
+      "artists": "Hugo & Guilherme, Zé Vaqueiro",
+      "metric": 16095511,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=akkCnFdhPWo"
+    },
+    {
+      "rank": 25,
+      "title": "Peli De Terror",
+      "artists": "Køddy G, THE FAVORITES",
+      "metric": 15562058,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=X8gidbVqflw"
+    },
+    {
+      "rank": 26,
+      "title": "The One That Got Away",
+      "artists": "Katy Perry",
+      "metric": 15115970,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=Ahha3Cqe_fk"
+    },
+    {
+      "rank": 27,
+      "title": "All I Want for Christmas Is You",
+      "artists": "Mariah Carey",
+      "metric": 14458788,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=aAkMkVFwAoo"
+    },
+    {
+      "rank": 28,
+      "title": "Mangal Rang",
+      "artists": "A. R. Rahman, Arijit Singh, Shreya Ghoshal, Kumar",
+      "metric": 14394627,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=z_e1d5_VVfw"
+    },
+    {
+      "rank": 29,
+      "title": "Todo Lo Fue",
+      "artists": "Lenin Ramirez",
+      "metric": 14334344,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=kwwdY1bp-Ck"
+    },
+    {
+      "rank": 30,
+      "title": "Mi Chico",
+      "artists": "DJ Goja, Jason Derulo, Melody",
+      "metric": 14204598,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=6Db-cEgbmC4"
+    },
+    {
+      "rank": 31,
+      "title": "ako ang bagyo",
+      "artists": "SHEAN",
+      "metric": 14169463,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=OzKMtW1P0QE"
+    },
+    {
+      "rank": 32,
+      "title": "Just Give Me a Reason (feat. Nate Ruess)",
+      "artists": "P!nk",
+      "metric": 13892039,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=OpQFFLBMEPI"
+    },
+    {
+      "rank": 33,
+      "title": "Nachiab Hathiyar Se",
+      "artists": "Shubham Raj, Anjali Raj, Prince Shaan Dubey, Laxmikant Pyarelal",
+      "metric": 13890714,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=nKqCu4mWEW4"
+    },
+    {
+      "rank": 34,
+      "title": "Umrumdışı",
+      "artists": "Mabel Matiz",
+      "metric": 13709456,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=Qwfl2M67xCI"
+    },
+    {
+      "rank": 35,
+      "title": "Dilruba Dilnasheen",
+      "artists": "Rito Riba, Siddhant kaushal",
+      "metric": 13658739,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=Ddm7VUgw5Vw"
+    },
+    {
+      "rank": 36,
+      "title": "Na Para Bang",
+      "artists": "Mariah Deborah",
+      "metric": 13274039,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=CqBQiz6DfBE"
+    },
+    {
+      "rank": 37,
+      "title": "Jaiye Sajana",
+      "artists": "Shashwat Sachdev, Satinder Sartaaj, Jasmine Sandlas",
+      "metric": 13223774,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=F2m4HPLvj-4"
+    },
+    {
+      "rank": 38,
+      "title": "Hootie Frutti",
+      "artists": "KATSEYE",
+      "metric": 13176224,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=is8UDe2PhKQ"
+    },
+    {
+      "rank": 39,
+      "title": "อย่ามากกว่าฉันก็พอ (Jealous)",
+      "artists": "GAVIND",
+      "metric": 13125593,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=4Xc-QLBqTa4"
+    },
+    {
+      "rank": 40,
+      "title": "Kayıp Kalp",
+      "artists": "BLOK3",
+      "metric": 13028045,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=A7ShtPRP2Mc"
+    },
+    {
+      "rank": 41,
+      "title": "Dil Phir Bhi Tumhe Dete Hain Kya Yaad Karoge",
+      "artists": "Alka Yagnik, Vinod Rathod",
+      "metric": 12949374,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=QJ-rdAIlgaU"
+    },
+    {
+      "rank": 42,
+      "title": "It's Me",
+      "artists": "ILLIT",
+      "metric": 12843747,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=bMhDJ0S0OBA"
+    },
+    {
+      "rank": 43,
+      "title": "Let Me Love You (feat. Justin Bieber)",
+      "artists": "DJ Snake",
+      "metric": 12843579,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=euCqAq6BRa4"
+    },
+    {
+      "rank": 44,
+      "title": "Nicole Kidman",
+      "artists": "ADÉLA",
+      "metric": 12802996,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=3sB4Iv_tM7U"
+    },
+    {
+      "rank": 45,
+      "title": "Yeshanagula",
+      "artists": "Singer Prabha, Jangi Reddy, Anirudh Ravichander, Kasarla Shyam",
+      "metric": 12767270,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=JqFzhcWo3EU"
+    },
+    {
+      "rank": 46,
+      "title": "Dracula (Remix) (feat. JENNIE)",
+      "artists": "Tame Impala",
+      "metric": 12683221,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=UvhkjVBBKiU"
+    },
+    {
+      "rank": 47,
+      "title": "Tu Boda",
+      "artists": "Oscar Maydon, Fuerza Regida",
+      "metric": 12506639,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=_ymicn0_GYc"
+    },
+    {
+      "rank": 48,
+      "title": "Mahiya",
+      "artists": "Badshah, Shreya Ghoshal, Hiten",
+      "metric": 12455213,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=EgXkduRe9ZU"
+    },
+    {
+      "rank": 49,
+      "title": "गुलाबी नगर",
+      "artists": "Srishti Bharti, Raushan Rohi, Vicky Vox",
+      "metric": 12312864,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=jhPPy-DT3sg"
+    },
+    {
+      "rank": 50,
+      "title": "ADDICTED",
+      "artists": "JISOO",
+      "metric": 12304629,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=Pksr9T8m_aA"
+    },
+    {
+      "rank": 51,
+      "title": "เด๋อ",
+      "artists": "JOEY PHUWASIT",
+      "metric": 11941824,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=JpB0UtlKG2Y"
+    },
+    {
+      "rank": 52,
+      "title": "Kırgınım",
+      "artists": "BLOK3",
+      "metric": 11933423,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=-FBwd9cWJoQ"
+    },
+    {
+      "rank": 53,
+      "title": "Endhayya Saami",
+      "artists": "Shweta Mohan, Ajay Gogavale, Ramajogayya Sastry",
+      "metric": 11759327,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=yLKKz4-M_y8"
+    },
+    {
+      "rank": 54,
+      "title": "Basinga Balaalu",
+      "artists": "Swamy Naresh, Srinidhi Nerella, Kalyan Keys",
+      "metric": 11750116,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=A_RV2H2F9jw"
+    },
+    {
+      "rank": 55,
+      "title": "Iris",
+      "artists": "The Goo Goo Dolls",
+      "metric": 11725555,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=NdYWuo9OFAw"
+    },
+    {
+      "rank": 56,
+      "title": "Last Christmas",
+      "artists": "Wham!",
+      "metric": 11721212,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=E8gmARGvPlI"
+    },
+    {
+      "rank": 57,
+      "title": "Animal",
+      "artists": "KATSEYE",
+      "metric": 11596211,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=m7k9UMcHbr0"
+    },
+    {
+      "rank": 58,
+      "title": "TRALALA",
+      "artists": "manifest",
+      "metric": 11502207,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=0rW7Fbm4S7g"
+    },
+    {
+      "rank": 59,
+      "title": "Las mas bonitas son p#tas",
+      "artists": "Anuel AA",
+      "metric": 11462427,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=vutbVGewIcg"
+    },
+    {
+      "rank": 60,
+      "title": "Lose Control (Live)",
+      "artists": "Teddy Swims",
+      "metric": 11387021,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=GZ3zL7kT6_c"
+    },
+    {
+      "rank": 61,
+      "title": "With",
+      "artists": "RESCENE",
+      "metric": 11173751,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=pey3E47eSc8"
+    },
+    {
+      "rank": 62,
+      "title": "FIRESTARTER (feat. Sophie Powers & MIYEON)",
+      "artists": "K/DA, League Of Legends, i-dle, Mimi Webb",
+      "metric": 11166176,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=Mmw-PpWhKFg"
+    },
+    {
+      "rank": 63,
+      "title": "Perfect",
+      "artists": "Ed Sheeran",
+      "metric": 11102623,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+    },
+    {
+      "rank": 64,
+      "title": "POKITO",
+      "artists": "Daddy Yankee, Diljit Dosanjh",
+      "metric": 10894735,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=XO1h5G6xytU"
+    },
+    {
+      "rank": 65,
+      "title": "Udaarian",
+      "artists": "Satinder Sartaaj",
+      "metric": 10607714,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=9udS0mpi1L4"
+    },
+    {
+      "rank": 66,
+      "title": "Ashke",
+      "artists": "Karan Aujla, Mxrci",
+      "metric": 10494981,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=Pd1yGW_g2T8"
+    },
+    {
+      "rank": 67,
+      "title": "November Rain",
+      "artists": "Guns N' Roses",
+      "metric": 10434163,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=8SbUC-UaAxE"
+    },
+    {
+      "rank": 68,
+      "title": "연애의 조건",
+      "artists": "Bestie",
+      "metric": 10421222,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=NPqtL1dtrlA"
+    },
+    {
+      "rank": 69,
+      "title": "Mega Hair (Ao Vivo)",
+      "artists": "Netto Brito, Luan Pereira",
+      "metric": 10397045,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=q1nA6EYUcwg"
+    },
+    {
+      "rank": 70,
+      "title": "Magale (From \"Baththa\")",
+      "artists": "Sai Abhyankkar, Harini, Karthik Netha",
+      "metric": 10338476,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=FhhA5purigQ"
+    },
+    {
+      "rank": 71,
+      "title": "Counting Stars",
+      "artists": "OneRepublic",
+      "metric": 10249398,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=hT_nvWreIhg"
+    },
+    {
+      "rank": 72,
+      "title": "Tera Mera Rishta",
+      "artists": "Mithoon, Pritam, Mustafa Zahid, Sayeed Quadri, Saaj Bhatt, Subodhh Sharma",
+      "metric": 10115894,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=6rvUyBiBtik"
+    },
+    {
+      "rank": 73,
+      "title": "BAD",
+      "artists": "ATEEZ",
+      "metric": 10102226,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=-q_S27LbNKU"
+    },
+    {
+      "rank": 74,
+      "title": "Radhimaa",
+      "artists": "Sai Abhyankkar, Nargis Teji, Asma Teji, Vivek, Sai Smriti",
+      "metric": 9933851,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=jR3rWCBeO6M"
+    },
+    {
+      "rank": 75,
+      "title": "Ravana Tandav",
+      "artists": "A. R. Rahman, Vishal Dadlani, Kumar",
+      "metric": 9788702,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=p1potl1sbjA"
+    },
+    {
+      "rank": 76,
+      "title": "Ain't In LA",
+      "artists": "ADÉLA",
+      "metric": 9764489,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=0ijm2Xui5N8"
+    },
+    {
+      "rank": 77,
+      "title": "Kabze",
+      "artists": "Bintu Pabra, Shiva Choudhary, Sihag Muzik",
+      "metric": 9665920,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=Oyw1Eo21q5k"
+    },
+    {
+      "rank": 78,
+      "title": "Smack That (feat. Eminem)",
+      "artists": "Akon",
+      "metric": 9565216,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=bKDdT_nyP54"
+    },
+    {
+      "rank": 79,
+      "title": "Afghan Jalebi (Ya Baba)",
+      "artists": "Asrar",
+      "metric": 9451876,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=zC3UbTf4qrM"
+    },
+    {
+      "rank": 80,
+      "title": "Bonito, Bonito",
+      "artists": "Thiago Navarro Music",
+      "metric": 9449899,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=i5neBtAgc-c"
+    },
+    {
+      "rank": 81,
+      "title": "आई है दिवाली सुनो जी घरवाली",
+      "artists": "Udit Narayan, Alka Yagnik, Kumar Sanu, Shaan, Ketki Dave, Sneha Pant",
+      "metric": 9394534,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=EFadWwaRDIo"
+    },
+    {
+      "rank": 82,
+      "title": "Perdóname",
+      "artists": "La Factoria, Eddy Lover",
+      "metric": 9364550,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=tXzg2ZA-9Us"
+    },
+    {
+      "rank": 83,
+      "title": "Debut",
+      "artists": "KATSEYE",
+      "metric": 9288253,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=kG0z7hwY3as"
+    },
+    {
+      "rank": 84,
+      "title": "Ooroda Oththa Don",
+      "artists": "Sai Abhyankkar, Vangal Pulla Vicky, Thamizh Aadhavan, KK Nagar Gana Jeeva",
+      "metric": 9242990,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=zHqGSU7Ymw0"
+    },
+    {
+      "rank": 85,
+      "title": "Terbelah Jadi Dua",
+      "artists": "Gloria Jessica, Ade Govinda",
+      "metric": 9223895,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=ks27-0q-Hrc"
+    },
+    {
+      "rank": 86,
+      "title": "Dile al Amor",
+      "artists": "Aventura",
+      "metric": 9208227,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=0XCot42qTvA"
+    },
+    {
+      "rank": 87,
+      "title": "Housewife",
+      "artists": "Tate McRae",
+      "metric": 9079284,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=DPEodkHzH-s"
+    },
+    {
+      "rank": 88,
+      "title": "No Snitching",
+      "artists": "Vin WRLD, Harshit Rao",
+      "metric": 8985694,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=3d3_1W1ftiI"
+    },
+    {
+      "rank": 89,
+      "title": "Suzuki (from GTAVI: The Album)",
+      "artists": "Fuerza Regida, Grand Theft Auto VI",
+      "metric": 8970766,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=wROPn_SFE5s"
+    },
+    {
+      "rank": 90,
+      "title": "Teh Hijau",
+      "artists": "Tulus",
+      "metric": 8939173,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=zyLmavBAY7k"
+    },
+    {
+      "rank": 91,
+      "title": "Mallepoola Pallaki",
+      "artists": "G. V. Prakash Kumar, Dappu Srinu",
+      "metric": 8901845,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=QnQnz9G2LNw"
+    },
+    {
+      "rank": 92,
+      "title": "Maine Khud Ko",
+      "artists": "Mustafa Zahid",
+      "metric": 8897726,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=xrCAIMx3V90"
+    },
+    {
+      "rank": 93,
+      "title": "Hookah Bar",
+      "artists": "Himesh Reshammiya, Vineet Kumar Singh, Aaman Trikha",
+      "metric": 8803997,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=b4b1cMVZOUU"
+    },
+    {
+      "rank": 94,
+      "title": "Snowman",
+      "artists": "Sia",
+      "metric": 8790817,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=gset79KMmt0"
+    },
+    {
+      "rank": 95,
+      "title": "تعا",
+      "artists": "Al Shami",
+      "metric": 8768029,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=XXSNzN8wMTM"
+    },
+    {
+      "rank": 96,
+      "title": "Bailando (Spanish Version) (feat. Descemer Bueno & Gente De Zona)",
+      "artists": "Enrique Iglesias",
+      "metric": 8685298,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=NUsoVlDFqZg"
+    },
+    {
+      "rank": 97,
+      "title": "Runaway",
+      "artists": "AURORA",
+      "metric": 8599249,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=d_HlPboLRL8"
+    },
+    {
+      "rank": 98,
+      "title": "Filam",
+      "artists": "Duryodhan Rana, Jaiveer Thakur, Prodbysoundscape",
+      "metric": 8590967,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=Jgd71pbGq2M"
+    },
+    {
+      "rank": 99,
+      "title": "Summertime Sadness",
+      "artists": "Lana Del Rey",
+      "metric": 8589540,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=TdrL3QxjyVw"
+    },
+    {
+      "rank": 100,
+      "title": "Aarzu",
+      "artists": "Noor, Khan, Madhurxo",
+      "metric": 8584796,
+      "metric_name": "views",
+      "url": "https://www.youtube.com/watch?v=M5OCLifZK1w"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "platform": "jiosaavn",
+  "chart": "most_searched_songs___hindi",
+  "fetched_at": "2026-11-15T18:28:08+00:00",
+  "rows": [
+    {
+      "rank": 1,
+      "title": "Casa Tupka Anthemo",
+      "artists": "Yo Yo Honey Singh",
+      "metric": 4682244,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/casa-tupka-anthemo/RF80ZUZ,BEM"
+    },
+    {
+      "rank": 2,
+      "title": "Parvati",
+      "artists": "Sadhu Tiwari",
+      "metric": 5679665,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/parvati/XSxTWx90A1k"
+    },
+    {
+      "rank": 3,
+      "title": "Achchi Lagti Ho",
+      "artists": "Shankar-Ehsaan-Loy, Udit Narayan, Kavita Krishnamurthy",
+      "metric": 6717573,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/achchi-lagti-ho/GQxfdicGRWE"
+    },
+    {
+      "rank": 4,
+      "title": "Maine Tere Hi Bharose",
+      "artists": "Suneel Lodhi",
+      "metric": 3035387,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/maine-tere-hi-bharose/MhEzBRxlRmE"
+    },
+    {
+      "rank": 5,
+      "title": "Gehra Hua",
+      "artists": "Irshad Kamil, Arijit Singh, Shashwat Sachdev, Armaan Khan",
+      "metric": 63919550,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/gehra-hua/QQ8jRRlhBEs"
+    },
+    {
+      "rank": 6,
+      "title": "Tera Mera Rishta - New Version (From \"Awarapan 2\")",
+      "artists": "Mithoon, Pritam, Sayeed Quadri, Saaj Bhatt, Subodhh Sharma",
+      "metric": 9581537,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/tera-mera-rishta-new-version-from-awarapan-2/Bw4-W0x,bnA"
+    },
+    {
+      "rank": 7,
+      "title": "Barbaad",
+      "artists": "The Rish, Jubin Nautiyal",
+      "metric": 67245850,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/barbaad/IV9ZUidnXUI"
+    },
+    {
+      "rank": 8,
+      "title": "Arz Kiya Hai | Coke Studio Bharat",
+      "artists": "Anuv Jain",
+      "metric": 29324069,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/arz-kiya-hai-%7c-coke-studio-bharat/EwQCHCQCR0Y"
+    },
+    {
+      "rank": 9,
+      "title": "Tum Hi Ho",
+      "artists": "Mithoon, Arijit Singh",
+      "metric": 375782475,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/tum-hi-ho/EToxUyFpcwQ"
+    },
+    {
+      "rank": 10,
+      "title": "Humnava Mere",
+      "artists": "Jubin Nautiyal",
+      "metric": 140525955,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/humnava-mere/PAJbazcHews"
+    },
+    {
+      "rank": 11,
+      "title": "Ishq De Fanniyar - Female",
+      "artists": "Jyotica Tangri, Shaarib Toshi, Kumaar",
+      "metric": 38592343,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/ishq-de-fanniyar-female/PB4hfz9xVVE"
+    },
+    {
+      "rank": 12,
+      "title": "Sahiba",
+      "artists": "Aditya Rikhari",
+      "metric": 48745118,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/sahiba/Bzc5ei0BZHg"
+    },
+    {
+      "rank": 13,
+      "title": "Sanson Ki Mala (From “Mirzapur The Movie”)",
+      "artists": "Madhur Sharma, Vaibhav Pani",
+      "metric": 2817943,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/sanson-ki-mala-from-%e2%80%9cmirzapur-the-movie%e2%80%9d/Ew8qW0Z,cx4"
+    },
+    {
+      "rank": 14,
+      "title": "Tu Thodi Der Aur Thehar Ja (From \"Half Girlfriend\")",
+      "artists": "Kumaar, Shreya Ghoshal",
+      "metric": 1606817,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/tu-thodi-der-aur-thehar-ja-from-half-girlfriend/HVgafSVDBX4"
+    },
+    {
+      "rank": 15,
+      "title": "Boom Shaka",
+      "artists": "Dhanda Nyoliwala, KR$NA",
+      "metric": 9534100,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/boom-shaka/CFAMcEZbb1g"
+    },
+    {
+      "rank": 16,
+      "title": "Jai Jai Ram (From \"Ramayana\")",
+      "artists": "A.R. Rahman, Shreya Ghoshal, Arijit Singh, Kumar Vishwas",
+      "metric": 1903758,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/jai-jai-ram-from-ramayana/HCwJcgF1ZV8"
+    },
+    {
+      "rank": 17,
+      "title": "Afghan Jalebi (Film Version)",
+      "artists": "Pritam, Akhtar Chanal Zahri",
+      "metric": 19303483,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/afghan-jalebi-film-version/Bz0nA0V7f1Q"
+    },
+    {
+      "rank": 18,
+      "title": "Ganga Ke Kinare",
+      "artists": "Bunny, Sagar",
+      "metric": 5633150,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/ganga-ke-kinare/ES5YfEBTAwU"
+    },
+    {
+      "rank": 19,
+      "title": "Tum Ho Toh",
+      "artists": "Vishal Mishra, Hansika Pareek, Raj Shekhar",
+      "metric": 45761186,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/tum-ho-toh/IiUFeQ1ABXA"
+    },
+    {
+      "rank": 20,
+      "title": "Darkhaast",
+      "artists": "Mithoon, Arijit Singh, Sunidhi Chauhan",
+      "metric": 61715400,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/darkhaast/MwwFUjtpVEQ"
+    },
+    {
+      "rank": 21,
+      "title": "O Sanam",
+      "artists": "Akhil Sachdeva",
+      "metric": 5807490,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/o-sanam/BQw4UkRKf2Y"
+    },
+    {
+      "rank": 22,
+      "title": "Nazar Lagi",
+      "artists": "Goldie Sohel, Asees Kaur",
+      "metric": 587469,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/nazar-lagi/SRs9fQZGZEQ"
+    },
+    {
+      "rank": 23,
+      "title": "Yeh Fitoor Mera",
+      "artists": "Arijit Singh",
+      "metric": 25700053,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/yeh-fitoor-mera/Gh4KdgZJbUE"
+    },
+    {
+      "rank": 24,
+      "title": "Ishq Mubarak",
+      "artists": "Arijit Singh",
+      "metric": 61897544,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/ishq-mubarak/Cg9bYTxeU3s"
+    },
+    {
+      "rank": 25,
+      "title": "Maine Khud Ko (Reprise)",
+      "artists": "Pranay Rijia, Kshitij Tarey",
+      "metric": 2946054,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/maine-khud-ko-reprise/ChkFSBt,B3c"
+    },
+    {
+      "rank": 26,
+      "title": "Jhumka Patola (From \"Yeh Prem Mol Liya\")",
+      "artists": "Himesh Reshammiya, Shreya Ghoshal, Sonia Kapoor Reshammiya",
+      "metric": 280629,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/jhumka-patola-from-yeh-prem-mol-liya/RAYcVxF2eX4"
+    },
+    {
+      "rank": 27,
+      "title": "Mann Mera",
+      "artists": "Gajendra Verma",
+      "metric": 83368578,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/mann-mera/NTc0RBtfekM"
+    },
+    {
+      "rank": 28,
+      "title": "Zaalima",
+      "artists": "Arijit Singh, Harshdeep Kaur",
+      "metric": 199795817,
+      "metric_name": "plays",
+      "url": "https://www.jiosaavn.com/song/zaalima/IglSd0FCY3c"
+    }
+  ]
+}
