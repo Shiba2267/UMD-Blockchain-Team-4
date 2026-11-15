@@ -1,0 +1,56 @@
+H1. Other platforms lead Spotify.
+
+  Expanded H1: Changes in a song’s YouTube activity predict changes in its Spotify streams over the following 1–7 days beyond what Spotify’s own recent trend already predicts. 
+              Specifically, these changes are most prominent for breakout songs (newly released, unknown artist) and less so for established hit songs and/or artists. 
+              
+  In regular terms: Youtube/Spotify obv move together, but we are guessing that youtube moves first. people encounter songs on youtube first, then seek it out on straming services. 
+
+    Null Hypothesis: YouTube activity at day t adds NO predictive information about Spotify streams at t + k, for any k from 1 to 7.
+    Hypothesis: YouTube activity at day t improves the forecast of Spotify streams at t + k for some k between 1 and 7, and the effect is positive (rising YouTube activity → rising Spotify streams).
+
+    Independent Variable: Cross-Platform Data. Youtube, mainly .
+    Dependent Variable: Spotify Data
+
+    Conclusion: If the null is false, then it is a viable trading signal. 
+
+We start out with just youtube data, and move on to other platforms as well once finished
+
+Limitations: Youtube/spotify have slightly different geographical demographics
+
+To go from a viable trading signal to a viable trading strategy, we also need to analyze if: 
+
+  1. Is it big enough to matter?    (does it change who wins?)                ---- i.e. 8% difference on a 5% win difference? 
+  2: Is it already priced in?       (does it predict the market's mistakes?)  ---- i.e  do traders already account for the youtube data? 
+  3: Does it survive costs?         (simulated trading at realistic prices)   -----i.e. is the bid/ask small or wide? is the trade viable long term? edge is greater than spread? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+These are some other hypothesis that could work / are related 
+
+H2. Partial-week arithmetic beats the market price in contested weeks. i.e. the modeled forecast at day 3 can be higher than the current price at polymarket 
+H3. Prices are biased at the extremes (favourite–longshot bias).
+    Therefore if you buy the favorites, ahead of time, then guaranteed win most of the time
+H4. Song decay curves predict crossovers.
+    If h1 is correct, then we can use cross-platform data to analyze rises and falls ahead of time
+
+
+
+  
